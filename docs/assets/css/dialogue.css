@@ -1,0 +1,29 @@
+.dialogue {
+    direction: ltr;
+}
+
+.dialogue ul{
+    list-style-type: none;
+}
+
+.dialogue .image {
+    float: left;
+    width: 25%;
+}
+
+.dialogue .text {
+    float: left;
+    width: 75%;
+    font-size: 150%;
+}
+
+.dialogue li:after {
+    content: "";
+    display: table;
+    clear: both;
+    margin-bottom: 20px;
+ }
+
+.dialogue img {
+    width: 150px;
+}
