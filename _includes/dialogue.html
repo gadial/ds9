@@ -1,0 +1,13 @@
+<div class="dialogue">
+    <ul>
+        {% for line in lines %}
+        <li>
+            <div class="image"><img src="{{ line.speaker_image }}"/></div>
+            <div class="text">
+                <div>{{ line.speaker_name }}:</div>
+                <div>{{ line.text }}</div>
+            </div>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
