@@ -5,6 +5,7 @@ date:   2013-05-07 22:34:14 +0300
 categories: season_1
 permalink: /S01/E10/Move_Along_Home
 ---
+{% include image name="Header.jpg" %}
 Worst. Episode. Ever.
 
 באמת, מה עבר להם בראש?
