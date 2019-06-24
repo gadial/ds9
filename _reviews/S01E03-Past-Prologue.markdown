@@ -4,7 +4,7 @@ title:  "עונה 1 פרק 3  - Past Prologue"
 date:   2013-04-09 22:34:14 +0300
 categories: season_1
 permalink: /S01/E03/Past_Prologue
-name: Past Prologue
+name: "Past Prologue"
 season: 1
 episode: 3
 importance: 0
