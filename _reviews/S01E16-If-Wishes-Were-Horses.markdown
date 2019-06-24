@@ -4,8 +4,12 @@ title:  "עונה 1 פרק 16 – If Wishes Were Horses"
 date:   2013-06-24 22:34:14 +0300
 categories: season_1
 permalink: /S01/E16/If_Wishes_Were_Horses
+name: "If Wishes Were Horses"
+season: 1
+episode: 16
+importance: 0 
+score: 3
 ---
-{% include image name="Header.jpg" %}
 הפרק נפתח בצורה שמבהירה חד משמעית שהוא לא רוצה להיות רציני כמו קודמו – שיחה מבודחת בפאב בין קווארק ואודו על דמיון ומציאות, שמהר מאוד מגיעה לשיחה על פורנו מול טלוויזיית פריים טיים:
 
 {% dialogue %}

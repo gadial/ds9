@@ -4,8 +4,12 @@ title:  "עונה 1 פרק 10 – Move Along Home"
 date:   2013-05-07 22:34:14 +0300
 categories: season_1
 permalink: /S01/E10/Move_Along_Home
+name: "Move Along Home"
+season: 1
+episode: 10
+importance: 0
+score: 1
 ---
-{% include image name="Header.jpg" %}
 Worst. Episode. Ever.
 
 באמת, מה עבר להם בראש?

@@ -4,8 +4,12 @@ title:  "עונה 1 פרק 11 – The Nagus"
 date:   2013-05-12 22:34:14 +0300
 categories: season_1
 permalink: /S01/E11/The_Nagus
+name: "The Nagus"
+season: 1
+episode: 11
+importance: 1 
+score: 3
 ---
-{% include image name="Header.jpg" %}
 למרות כמה בעיות, פרק כיפי בהחלט, מהטובים ביותר עד כה.
 
 נתחיל מהטוב ביותר – פרק נטול "באשיר ילד כאפות"! אמנם, בגלל שבאשיר לא ממש הופיע בו.

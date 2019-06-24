@@ -1,0 +1,19 @@
+td.must_watch {
+    background-color: gold;
+}
+
+td.should_watch {
+    background-color: greenyellow;
+}
+
+td.can_watch {
+    background-color: aqua;
+}
+
+td.can_skip {
+    background-color: yellow;
+}
+
+td.should_skip {
+    background-color: red;
+}

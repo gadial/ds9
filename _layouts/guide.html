@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<h1>מדריך צפיה</h1>
+<h2>מקרא</h2>
+<table style="width:100%" class="suggestion_legend">
+    <tr><td class="must_watch"></td><td>מומלץ מאוד, אולי אפילו קריטי</td></tr>
+    <tr><td class="should_watch"></td><td>כדאי לראות; פרק טוב או חשוב מאוד לעלילה</td></tr>
+    <tr><td class="can_watch"></td><td>אפשר לראות; פרק סביר או בעל חשיבות עלילתית כלשהי</td></tr>
+    <tr><td class="can_skip"></td><td>אפשר לדלג; פרק לא טוב וחסר חשיבות</td></tr>
+    <tr><td class="should_skip"></td><td>מומלץ לדלג; אחד מאותם נבחרים שהם פרקים פשוט מזעזעים</td></tr>
+</table>
+<table style="width:100%" class="episode_guide">
+  <tr>
+    <th>שם הפרק</th>
+    <th>חשיבות</th> 
+    <th>דירוג</th>
+  </tr>
+  {% for episode in page.episodes %}
+  <tr>
+    <td class="{{ episode.suggestion }}">{{ episode.name }}</td>
+    <td>{{ episode.importance }}</td> 
+    <td>{{ episode.score }}</td>
+  </tr>
+  {% endfor %}
+</table>
