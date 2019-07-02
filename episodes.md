@@ -5,15 +5,19 @@
 layout: default
 ---
 <h1>רשימת הסקירות</h1>
-
+{%- for season in site.data['seasons'] -%}
+<h2>עונה {{season[0]}}</h2>
 <ul class="image-list-small">
-    {%- for post in site.reviews -%}
+    {%- for post in season[1] -%}
     <li>
     <a href="{{ site.baseurl }}{{ post.permalink }}" style="background-image: url('{{ site.baseurl }}/assets/img/reviews/{{ post.permalink | episode_identifier}}/Header.jpg');"></a>
     <div class="details">
         <h3><a href="#">{{ post.name }}</a></h3>
         <p class="image-author">{{ post.permalink | episode_identifier}}</p>
-      </div>
+    </div>
     </li>
     {%- endfor -%}
 </ul>
+{%- endfor -%}
+
+
