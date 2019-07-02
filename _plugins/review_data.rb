@@ -1,4 +1,12 @@
 module Jekyll
+    class Document
+      def url=(name)
+        @url = name
+      end
+    end
+end
+
+module Jekyll
     class ReviewDataSet < Generator
         def formatted_episode_string(episode_string)
             return "%02d" % episode_string if episode_string.to_s.index("-").nil?
@@ -12,6 +20,7 @@ module Jekyll
                 season = post.data['season']
                 name = post.data['name'].gsub(" ", "_")
                 post.data['permalink'] = "/S#{"%02d" % season}#{'/E' + formatted_episode_string(post.data['episode']) if post.data.key? 'episode'}/#{name}"
+                post.url = post.data['permalink']
                 site.data['seasons'][season] << post
             end
         end

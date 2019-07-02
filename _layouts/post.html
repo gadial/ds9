@@ -15,18 +15,26 @@ layout: default
       {%- endif -%}</p>
   </header>
 
-{% if page.previous_in_collection_url %}
-  <a href="{{ site.baseurl }}{{ page.previous_in_collection_url }}">{{ page.previous_in_category.title }}לפוסט הקודם</a>
-{% endif %}
+<table class="post_nav">
+  <tr>
+    <td class="prev">
+      {% if page.previous_in_collection %}
+      <div>הפוסט הקודם</div><div><a href="{{ site.baseurl }}{{ page.previous_in_collection.url }}">{{page.previous_in_collection.title}}</a></div>
+      {% endif %}
+    </td>
+    <td class="curr">{% include image name="Header.jpg" type="screenshot" %}</td>    
+    <td class="next">
+    {% if page.next_in_collection %}
+      <div>הפוסט הבא</div><div><a href="{{ site.baseurl }}{{ page.next_in_collection.url }}">{{page.next_in_collection.title}}</a></div>
+    {% endif %}
+    </td>
+  </tr>
+</table>
 
-{% if page.next_in_collection_url %}
-  <a href="{{ site.baseurl }}{{ page.next_in_collection_url }}">{{ page.next_in_category.title }}לפוסט הבא</a>
-{% endif %}
-
-  {% include image name="Header.jpg" %}
-  <div class="post-content e-content" itemprop="articleBody">
+<div class="post-content e-content" itemprop="articleBody">
     {{ content }}
-  </div>
+</div>
+  
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}

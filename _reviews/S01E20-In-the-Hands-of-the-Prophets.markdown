@@ -4,6 +4,7 @@ title:  "עונה 1 פרק 20 – In the Hands of the Prophets"
 date:   2013-07-08 22:34:14 +0300
 categories: season_1
 name: "In the Hands of the Prophets"
+premalink: 
 season: 1
 episode: 20
 importance: 2
