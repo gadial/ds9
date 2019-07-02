@@ -9,6 +9,7 @@ season: 1
 episode: 10
 importance: 0
 score: 1
+guide_comment: "כמה רגעי דמויות לא רעים לא מפצים על העלילה המטופשת ביותר בסדרה כולה"
 ---
 Worst. Episode. Ever.
 

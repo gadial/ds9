@@ -3,12 +3,12 @@ layout: post
 title:  "עונה 1 פרק 20 – In the Hands of the Prophets"
 date:   2013-07-08 22:34:14 +0300
 categories: season_1
-permalink: /S01/E20/In_the_Hands_of_the_Prophets
 name: "In the Hands of the Prophets"
 season: 1
 episode: 20
 importance: 2
 score: 4
+guide_comment: "הפרק עצמו טוב, אבל הוא עוד יותר חשוב בגלל שהוא מציג דמויות שיהיו חשובות מאוד בהמשך"
 ---
 פרק סיום עונה טוב, עם בחירת נושא טובה, למרות שכזו שמעידה קצת על הפיזור של העונה הזו (אבל על כך – בסיכום העונה שיבוא בנפרד).
 

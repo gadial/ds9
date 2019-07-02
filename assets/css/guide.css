@@ -17,3 +17,11 @@ td.can_skip {
 td.should_skip {
     background-color: red;
 }
+
+.suggestion_legend td {
+    text-align: right;
+}
+
+.episode_guide td {
+    text-align: center;
+}

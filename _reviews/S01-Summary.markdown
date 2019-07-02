@@ -4,7 +4,9 @@ title:  "עונה 1 – סיכום"
 date:   2013-07-16 22:34:14 +0300
 categories: season_1
 permalink: /S01/Summary
+name: "Summary"
 season: 1
+
 ---
 
 אז מה היה לנו?
