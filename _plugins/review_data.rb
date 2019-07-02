@@ -1,25 +1,17 @@
 module Jekyll
     class ReviewDataSet < Generator
-      def generate(site)
-        site.collections['reviews'].docs.each do |post|
-            season = post.data['season']
-            name = post.data['name'].gsub(" ", "_")
-            if post.data.key? 'episode'
-                episode = post.data['episode']
-                if episode.to_s.index("-").nil?
-                    episode_string = "%02d" % episode
-                else
-                    if episode.length == 3
-                        episode_string = "0" + episode
-                    else
-                        episode_string = episode
-                    end
-                end
-                post.data['permalink'] = "/S#{"%02d" % season}/E#{episode_string}/#{name}"
-            else
-                post.data['permalink'] = "/S#{"%02d" % season}/#{name}"
+        def formatted_episode_string(episode_string)
+            return "%02d" % episode_string if episode_string.to_s.index("-").nil?
+            return "0" + episode_string if episode_string.length == 3
+            return episode_string
+        end
+
+        def generate(site)
+            site.collections['reviews'].docs.each do |post|
+                season = post.data['season']
+                name = post.data['name'].gsub(" ", "_")
+                post.data['permalink'] = "/S#{"%02d" % season}#{'/E' + formatted_episode_string(post.data['episode']) if post.data.key? 'episode'}/#{name}"
             end
-         end
-       end
+        end
     end
 end
