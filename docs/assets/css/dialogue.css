@@ -8,13 +8,13 @@
 
 .dialogue .image {
     float: left;
-    width: 25%;
+    width: 15%;
 }
 
 .dialogue .text {
     float: left;
-    width: 75%;
-    font-size: 150%;
+    width: 85%;
+    font-size: 125%;
 }
 
 .dialogue li:after {

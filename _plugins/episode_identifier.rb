@@ -1,8 +1,8 @@
 module Jekyll
     module EpisodeIdentifierFilter
       def episode_identifier(input)
-        input =~ /\/([^\/]+)\/([^\/]+)\/([^\/]+)/
-        "#{$1}#{$2}"
+        return "#{$1}#{$2}" if input =~ /\/([^\/]+)\/([^\/]+)\/([^\/]+)/
+        return "#{$1}_#{$2}" if input =~ /\/([^\/]+)\/([^\/]+)/
       end
     end
   end

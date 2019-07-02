@@ -1,0 +1,17 @@
+img.screenshot{
+    width:300px;
+}
+
+.post_nav{
+    border:2px solid;
+    text-align: center;
+}
+.prev, .next {
+    border:1px solid;
+    width: 20%;
+}
+
+.curr {
+    border: 1px solid;
+    width: 60%;
+}

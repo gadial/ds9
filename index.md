@@ -4,3 +4,6 @@
 
 layout: home
 ---
+[רשימת הסקירות]({{site.baseurl}}/episodes.html)
+
+[מדריך צפיה]({{site.baseurl}}/guide.html)
