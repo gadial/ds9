@@ -2,7 +2,7 @@
 layout: post
 title:  "עונה 2 פרק 26 - The Jem'Hadar"
 date: 2015-05-20 22:34:14 +0300
-name: The Jem'Hadar
+name: "The Jem'Hadar"
 season: 2
 episode: 26
 importance: 2
