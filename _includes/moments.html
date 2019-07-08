@@ -1,11 +1,10 @@
 <div class="moments">
-    <ul>
-        {% for moment in moments %}
-        <li>
-            <p>{{ moment.number }}. {{moment.text}} ({{moment.episode}})</p>
-            <p>{{ moment.explain }}</p>
-            <img class="screenshot" src="{{moment.image}}" />
-        </li>
-        {% endfor %}
-    </ul>
+    {% for moment in moments %}
+    <div class="moment">
+        <img class="screenshot" src="{{moment.image}}" />
+        <h4>{{ moment.number }}. {{moment.text}} </h4>
+        <h4>({{moment.episode}})</h4>
+        <p>{{ moment.explain }}</p>
+    </div>
+    {% endfor %}
 </div>

@@ -23,4 +23,134 @@ season: 2
 
 מה שכן, הרבה יותר קשה לי לבחור את הפרק (או שניים, או שלושה) הטוב ביותר בעונה (בעונה הקודמת זה היה Duet כמעט ללא ויכוח). נראה לי שאם אני צריך לשלוף משהו מהשרוול, אז אני אשלוף את Whispers (בגלל הסגנון השונה מיתר הפרקים, שהתגלה כמוצלח ומתאים מאוד), את The Maquis (בגלל שהוא מציג את הפדרציה באור שלילי שלא היו מעזים להראות ב-TNG והופך את כל העימות מול הקרדסים למעניין פי כמה) ואת The Wire (כי גארק גארק גארק). בסך הכל העונה הרגישה כאילו אין בה כמעט פרקים גרועים, אז זה לא חשוב שקשה למצוא פרק אחד שמתבלט מעל היתר (מה כן היה גרוע? Sanctuary היה איום ונורא מבחינה תסריטאית שלא השאירה לפרק שום סיכוי; Second Sight ו-Shadowplay היו קצת מביכים; ו-Rules of Acquisition היה מבורחש מדי ומביך מדי מכדי להיות טוב כמו שהגיע לו להיות).
 
-רשימת רגעים אהובים מהעונה + תמונות - בהמשך.
+רשימת רגעים אהובים מהעונה:
+
+{% moments %}
+-
+  - הפוליטיקה של בגדים שיצאו מהאופנה
+  - Profit and Loss
+  - |
+    Profit and Loss
+-
+  - או'ברייאן וקירה בעורף האויב
+  - The Homecoming
+  - |
+    The Homecoming
+-
+  - כשהנאגוס מנסה לרמות את האדם הלא נכון
+  - Rules of Acquisition
+  - |
+    Rules of Acquisition
+-
+  - אבל מי המאסטר ומי הפדוואן?
+  - Necessary Evil
+  - |
+    Necessary Evil
+-
+  - או'ברייאן עושה נינג'ה
+  - Whispers
+  - |
+    Whispers
+-
+  - ייסורי גמילה
+  - The Wire
+  - |
+    The Wire
+-
+  - אז מי את?
+  - Crossover
+  - |
+    Crossover
+-
+  - טריל מחוץ למים
+  - Invasive Procedures
+  - |
+    Invasive Procedures
+-
+  - הכלוב
+  - Paradise
+  - |
+    Paradise
+-
+  - אוי ווי. ניצחתי?
+  - Tribunal
+  - |
+    Tribunal
+-
+  - כואב להיות פדובר
+  - Cardassians
+  - |
+    Cardassians
+-
+  - אם רק היה אפשר לקרוא טקסטים במקום להאזין...
+  - Whispers
+  - |
+    Whispers
+-
+  - עכביש - עסק ביש ()
+  - The Siege
+  - |
+    The Siege
+- 
+  - Don't Call me Benjamin 
+  - Invasive Procedures
+  - |
+    Invasive Procedures
+-
+  - כשזה מגיע לרגשות, אתם לא רואים את המובן מאליו
+  - The Collaborator
+  - |
+    The Collaborator
+-
+  - בעיקר השקרים
+  - The Wire
+  - |
+    The Wire
+-
+  - קומנדו דקס בפעולה
+  - Blood Oath
+  - |
+    Blood Oath
+-
+  - מי רוצה משקה על חשבון הבית?
+  - Crossover
+  - |
+    Crossover
+-
+  - או'ברייאן בלי חולצה!!!!!
+  - Rivals
+  - |
+    Rivals
+-
+  - Your new BFF
+  - The Maquis, part I
+  - |
+    The Maquis, part I
+-
+  - I dabble with isolinear data subprocessors. It's a hobby of mine.
+  - Cardassians
+  - |
+    Cardassians
+-
+  - אנחנו טובים יותר
+  - The Jem'Hadar
+  - |
+    The Jem'Hadar
+-
+  - בטח שאני שותה קפה אחר הצהריים
+  - Armageddon Game
+  - |
+    Armageddon Game
+-
+  - קל להיות קדוש בגן עדן
+  - The Maquis, part II
+  - |
+    The Maquis, part II
+-
+  - מסיבת פרידה
+  - The Circle
+  - |
+    The Circle
+
+     
+{% endmoments %}
