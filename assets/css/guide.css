@@ -1,21 +1,26 @@
 td.must_watch {
     background-color: gold;
+    direction:ltr;
 }
 
 td.should_watch {
     background-color: greenyellow;
+    direction:ltr;
 }
 
 td.can_watch {
     background-color: aqua;
+    direction:ltr;
 }
 
 td.can_skip {
     background-color: yellow;
+    direction:ltr;
 }
 
 td.should_skip {
     background-color: red;
+    direction:ltr;
 }
 
 .suggestion_legend td {

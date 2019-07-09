@@ -6,7 +6,7 @@ name: "Visionary"
 season: 3
 episode: 17
 importance: 0
-score: 5
+score: 4
 guide_comment: "פרק חסר חשיבות אבל מהנה מאוד"
 ---
 

@@ -18,7 +18,7 @@ module Jekyll
             site.data['seasons'] = Hash.new{|h,k| h[k] = [] }
             site.collections['reviews'].docs.each do |post|
                 season = post.data['season']
-                name = post.data['name'].gsub(" ", "_")
+                name = post.data['name'].gsub(" ", "_").gsub(".", "").gsub("?", "")
                 post.data['permalink'] = "/S#{"%02d" % season}#{'/E' + formatted_episode_string(post.data['episode']) if post.data.key? 'episode'}/#{name}"
                 post.url = post.data['permalink']
                 site.data['seasons'][season] << post
