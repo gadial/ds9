@@ -1,0 +1,9 @@
+.moment img {
+    float:left;
+    margin: 0 15px 0 0;
+}
+
+.moment {
+    padding: 10px;
+    overflow: auto;
+}
