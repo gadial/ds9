@@ -3,6 +3,7 @@ module Jekyll
       def episode_identifier(input)
         return "#{$1}#{$2}" if input =~ /\/([^\/]+)\/([^\/]+)\/([^\/]+)/
         return "#{$1}_#{$2}" if input =~ /\/([^\/]+)\/([^\/]+)/
+        return input
       end
     end
   end

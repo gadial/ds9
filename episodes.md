@@ -19,5 +19,15 @@ layout: default
     {%- endfor -%}
 </ul>
 {%- endfor -%}
+<h2>סיכומים</h2>
+<ul class="image-list-small">
+<li>
+<a href="{{ site.baseurl }}/Series_Summary" style="background-image: url('{{ site.baseurl }}/assets/img/reviews/Series_Summary/Header');"></a>
+<div class="details">
+    <h3><a href="{{ site.baseurl }}/Series_Summary">כל הסדרה - סיכום</a></h3>
+    <p class="image-author">Series Summary</p>
+</div>
+</li>
+</ul>
 
 
