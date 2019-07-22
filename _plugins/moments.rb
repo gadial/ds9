@@ -16,8 +16,9 @@ module Jekyll
           'number' => moments_list.length - index,
           'text' => moment[0].gsub('\"', '"'),
           'episode' => moment[1],
-          'explain'=> moment[2].gsub('\"', '"'),
-          'image' => "#{image_dir}/M#{index+1}.jpg"
+          #'explain'=> moment[2].gsub('\"', '"'),
+          'explain'=> "",
+          'image' => "#{image_dir}/M#{index+1}"
         }
       end      
       moments_template = File.read("_includes/moments.html")

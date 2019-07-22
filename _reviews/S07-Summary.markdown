@@ -135,7 +135,7 @@ season: 7
   - |
      The Siege Of AR-558
 -
-  - "מדור 31: 1, באשיר: 0"
+  - 'מדור 31: 1, באשיר: 0'
   - Inter Arma Enim Silent Leges
   - |
      Inter Arma Enim Silent Leges

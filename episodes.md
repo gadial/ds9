@@ -10,7 +10,7 @@ layout: default
 <ul class="image-list-small">
     {%- for post in season[1] -%}
     <li>
-    <a href="{{ site.baseurl }}{{ post.permalink }}" style="background-image: url('{{ site.baseurl }}/assets/img/reviews/{{ post.permalink | episode_identifier}}/Header.jpg');"></a>
+    <a href="{{ site.baseurl }}{{ post.permalink }}" style="background-image: url('{{ site.baseurl }}/assets/img/reviews/{{ post.permalink | episode_identifier}}/Header');"></a>
     <div class="details">
         <h3><a href="{{ site.baseurl }}{{ post.permalink }}">{{ post.name }}</a></h3>
         <p class="image-author">{{ post.permalink | episode_identifier}}</p>
