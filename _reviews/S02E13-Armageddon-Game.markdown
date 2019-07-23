@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "עונה 2 פרק 13 – Armageddon Game"
-date: 2014-04-19 22:34:14 +0300
+date: 2014-05-19 22:34:14 +0300
 name: "Armageddon Game"
 season: 2
 episode: 13
