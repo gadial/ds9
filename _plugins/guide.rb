@@ -22,7 +22,8 @@ module Jekyll
                 'score' => score_name(episode.data['score']),
                 'importance' => importance_name(episode.data['importance']),
                 'suggestion' => suggestion(episode.data['score'], episode.data['importance']),
-                'comment' => episode.data['guide_comment']
+                'comment' => episode.data['guide_comment'],
+                'permalink' => episode.data['permalink']
             }
         end
       end

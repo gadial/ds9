@@ -13,6 +13,7 @@ layout: default
 <table style="width:100%" class="episode_guide">
   <tr>
     <th>עונה</th>
+    <th>מספר פרק</th>
     <th>שם הפרק</th>
     <th>חשיבות</th> 
     <th>דירוג</th>
@@ -23,7 +24,8 @@ layout: default
     {% if episode.number == 1 or episode.number == '1-2' %}
     <td rowspan="{{ episode.season_length }}">עונה {{ episode.season }}</td>
     {% endif %}
-    <td class="{{ episode.suggestion }}">{{ episode.name }}</td>
+    <td>{{ episode.number }}</td>
+    <td class="{{ episode.suggestion }}"><a href={{site.baseurl}}/{{episode.permalink}}>{{ episode.name }}</a></td>
     <td>{{ episode.importance }}</td> 
     <td>{{ episode.score }}</td>
     <td class="comment">{{ episode.comment }}</td>

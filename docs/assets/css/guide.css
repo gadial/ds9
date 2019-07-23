@@ -30,3 +30,7 @@ td.should_skip {
 .episode_guide td {
     text-align: center;
 }
+
+.episode_guide td a{
+    color:black;
+}
