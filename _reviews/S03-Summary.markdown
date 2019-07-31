@@ -2,7 +2,6 @@
 layout: post
 title:  "עונה 3 – סיכום"
 date:   2016-08-23 22:34:14 +0300
-categories: season_3
 permalink: /S03/Summary
 name: "Summary"
 season: 3

@@ -29,11 +29,13 @@ guide_comment: "פרק מפתח מבחינת גארק ודוקאט, שיהיו �
 
 באשיר צבר מספיק עוז ותעוזה כדי שיתפרץ לשיחה של סיסקו ושות' עם גאל דוקאט וישאל אותו ישירות על הנושא. כמובן שגאל דוקאט מתחמק ותולה את האשמה בהנהגה האזרחית של קרדסיה (באשיר תוהה בתגובה ממתי יש להנהגה האזרחית השפעה על ההנהגה הצבאית) – לי זה טיפה מזכיר את בבילון 5 (ההנהגות השונות של המינבארים). ההתפרצות הזו מובילה לאחד הדיאלוגים המוצלחים בסדרה עד כה, בין סיסקו ובאשיר:
 
-"What exactly does [Garak] think is going on?"
-"I'm not sure. He doesn't tell me what he really thinks... I sort of have to... deduce it."
-"Ah, so you deduced that Garak thinks that Dukat is lying about something you're not sure of. Then you proceeded to interrupt my conversation to confront him about whatever that might be."
-"I'm sorry, Commander. It just seemed like an opportune -"
-"Don't apologize; it's been the high point of my day. Don't do it again."
+{% dialogue %}
+SISKO: What exactly does he (Garak) think is going on? 
+BASHIR: I'm not sure. He doesn't actually tell me what he really thinks. I sort of have to deduce it. 
+SISKO: So, you deduced that Garak thinks Dukat is lying about something you're not sure of and you proceeded to interrupt my conversation to confront him about whatever that may be. 
+BASHIR: I'm sorry, Commander. It just seemed an opportune -
+SISKO: Don't apologise. It's been the high point of my day. Don't do it again. 
+{% enddialogue %}
 
 באשיר עדיין ילד כאפות, אבל הוא סוף סוף ילד כאפות מוצלח.
 
