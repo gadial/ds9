@@ -11,10 +11,24 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  
+environment: production
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/general/DS9.jpg
+      description: "גדי רואה DS9 - יומן צפיה בסדרה Deep Space 9"
+
 collections:
   reviews:
     output: true
+
+# Trackers
+google_analytics: "UA-3924539-3"
+statcounter:
+  id: 12182652
+  security: 915773f6
+  invisible: 1
 
 exclude:
   - docs

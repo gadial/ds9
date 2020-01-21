@@ -17,14 +17,15 @@ guide_comment: "המשך ישיר של הפרק הקודם וכולל את אח�
 
 ואכן, בבסיס כבר מחכים לסיסקו גם הבוסית הגדולה מהפדרציה וגם בוס גדול קרדסי כלשהו. הבוסית מהפדרציה קלולסית לחלוטין לגבי הסיטואציה ופחות או יותר אומרת לסיסקו שיתמודד. או, במילותיה:
 
-"l think you're overstating the problem. Establish a dialogue. The Maquis are Federation citizens. They'll listen to reason."
+"I think you're overstating the problem. Establish a dialogue. The Maquis are Federation citizens. They'll listen to reason."
 
 או בקיצור, הבולשיט הרגיל של הפדרציה שכל כך התרגלנו אליו.
 
 אה, אבל הפעם זה מכוון. הסדרה החליטה שהגיע הזמן לתת הצהרת כוונות אחת ולתמיד - והיא עושה את זה במונולוג שסיסקו הכועס נותן לקירה - אולי המונולוג החשוב ביותר בסדרה עד כה, כי נראה שהוא מגיע ישירות מהיוצרים ומהווה את החזון שלהם לגבי הסדרה:
 
-"Establish a dialogue? What does she think l've been doing? Belonging to the Federation does not mean that people are saints. Do you know what the trouble is? The trouble is Earth. On Earth, there is no poverty, no crime, no war. Out of the windows of Starfleet headquarters is paradise. lt's easy to be a saint in paradise. But the Maquis do not live in paradise. ln the Demilitarised Zone all the problems haven't been solved yet. Out there, there are no saints, just people - angry, scared, determined people, who will survive whether the Federation likes it or not."
-
+{% dialogue %}
+SISKO: Establish a dialogue? What does she think l've been doing? Belonging to the Federation does not mean that people are saints. Do you know what the trouble is? The trouble is Earth. On Earth, there is no poverty, no crime, no war. Out of the windows of Starfleet headquarters is paradise. lt's easy to be a saint in paradise. But the Maquis do not live in paradise. ln the Demilitarised Zone all the problems haven't been solved yet. Out there, there are no saints, just people - angry, scared, determined people, who will survive whether the Federation likes it or not.
+{% enddialogue %}
 אמירה מפורשת - החזון האוטופי של מסע בין כוכבים? תשכחו ממנו. הוא אשליה. אנחנו ב-DS9 הולכים להראות לכם את העולם האמיתי. יפה יפה.
 
 בינתיים, אודו עולה על זה שקווארק עשה עסקים עם הוולקנית המחתרתית בפרק הקודם. מול אודו וסיסקו קווארק נשבר חיש קל ומודה שתיווך לה עסקת נשק - לכמות רצינית של נשקים. רגע, מה? קווארק נשבר בכזו קלות ואין לו סיפור כיסוי? מה יהיה? כשסיסקו עוזב, אודו שואל אותו עד מתי להחזיק את קווארק וסיסקו עונה "לנצח" עם הבעה שהיא Priceless. אוהו, סוף סוף התחילו לתת לו שורות מוצלחות!

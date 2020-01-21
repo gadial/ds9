@@ -33,3 +33,6 @@
   </div>
 
 </footer>
+{%- if site.environment == 'production' and site.statcounter -%}
+    {%- include statcounter.html -%}
+{%- endif -%}

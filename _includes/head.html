@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="{{ "/assets/css/moments.css" | relative_url }}">
   <link rel="stylesheet" href="{{ "/assets/css/gallery.css" | relative_url }}">
   {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+  {%- if site.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
 </head>
