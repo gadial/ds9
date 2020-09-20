@@ -38,12 +38,11 @@ guide_comment: "פרק מעולה וחשוב מאוד עלילתית. לא לפ�
 היזהרו לכם מאנשים שטוענים שאין להם אידאולוגיה!
 
 אדינגטון לא יכול להימנע מנאום פרידה (בתמונה), שהוא ביקור מחודש בביקורת-הפדרציה של סיסקו עצמו, רק שעכשיו הוא מגיע מאדינגטון אל סיסקו, שמוצא את עצמו בעמדת המגננה, והוא אולי כתב האישום החריף ביותר נגד הפדרציה שראיתי עד כה בסדרת סטאר טראק - ולמרות ההקצנה, חייבים להודות שיש בו משהו.
-
-I was like you once, but then I opened my eyes. Open your eyes, Captain. Why is the Federation so obsessed with the Maquis? We've never harmed you, and yet we're constantly arrested and charged with terrorism. Starships chase us through the Badlands and our supporters are harassed and ridiculed. Why?
-
-Because we've left the Federation and that's the one thing you can't accept. Nobody leaves paradise. Everyone should want to be in the Federation. Hell, you even want the Cardassians to join. You're only sending them replicators because one day they can take their rightful place on the Federation Council.
-
-You know, in some ways, you're even worse than the Borg. At least they tell you about their plans for assimilation. You're more insidious. You assimilate people, and they don't even know it.
+{% dialogue %}
+EDDINGTON: I was like you once, but then I opened my eyes. Open your eyes, Captain. Why is the Federation so obsessed with the Maquis? We've never harmed you, and yet we're constantly arrested and charged with terrorism. Starships chase us through the Badlands and our supporters are harassed and ridiculed. Why?
+EDDINGTON: Because we've left the Federation and that's the one thing you can't accept. Nobody leaves paradise. Everyone should want to be in the Federation. Hell, you even want the Cardassians to join. You're only sending them replicators because one day they can take their rightful place on the Federation Council.
+EDDINGTON: You know, in some ways, you're even worse than the Borg. At least they tell you about their plans for assimilation. You're more insidious. You assimilate people, and they don't even know it.
+{% enddialogue %}
 
 מה שעוד יותר טוב מהנאום הוא התגובה של סיסקו אליו. ליתר דיוק, חוסר התגובה: סיסקו צועק על אדינגטון שלא אכפת לו מכל זה, שאדינגטון בוגד ושהוא ישלח אותו לכלא לשארית חייו ולא משנה כמה יצטרך לרדוף אחריו. במילים אחרות, לא רק שאדינגטון ניצח בתחבולת גניבת הרפליקטורים שלו, הוא ניצח גם בקרב המילולי שאחריה. האם סיסקו מפסיד כי הוא מבין כמה אמת יש במה שאדינגטון עונה וקשה לו לסנגר על הפדרציה, או כי הוא פשוט אידיוט? לא ברור.
 

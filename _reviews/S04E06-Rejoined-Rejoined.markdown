@@ -27,9 +27,11 @@ guide_comment: "חסר חשיבות עלילתית אבל שווה צפיה גם
 
 במסיבת קבלת הפנים הטרילים מדברים עם וורף שהולך להיות מפקד הדיפיינט במשימה שלהם ואומרים שכזו משימה היא לא מה שקלינגונים בדרך כלל חולמים עליו. מה שמוביל לדיאלוג הבא עם קירה:
 
-"What do Klingons dream about?"
-"Things that would send cold chills down your spine, and wake you in the middle of the night. No, it is better that you do not know. Excuse me."
-"I can never tell when he's joking."
+{% dialogue %}
+KIRA: What do Klingons dream about?
+WORF: Things that would send cold chills down your spine and wake you in the middle of the night. It is better you do not know. Excuse me.
+KIRA: I can never tell when he's joking.
+{% enddialogue %}
 
 וואו, וורף. אתה בטח כיפי במסיבות. אה, רגע.
 

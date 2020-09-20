@@ -33,46 +33,33 @@ guide_comment: "פרק פרנגים נחמד אבל החשיבות העלילת�
 מה עושה קווארק? את מה שהוא צריך לעשות - הולך אל גארק - היי גארק! מזמן לא ראינו אותך! - ומבקש ממנו שיעורר קצת את הצד של הסוכן החשאי שלו וירצח מישהו. רום מתלהב מכך שלקווארק יש את האומץ לחסל את בראנט (זוכרים איך ב-The Nagus לרום - אז עם אישיות די שונה מכרגע - היה אומץ לחסל את קווארק?), אבל כמובן שקווארק מבקש מגארק שירצח אותו עצמו.
 
 כשרום מנסה להניא את קווארק מהעניין, קווארק שולף נאום שמראה לנו שהוא דתי לא פחות מבראנט:
-
-That's who I am. That's what I do. I'm a businessman. And more than that, I'm a Ferengi businessman. Do you know what that means? It means that I'm not exploiting and cheating people at random. I'm doing it according to a specific set of rules. The Rules of Acquisition. And I won't disregard them when I find them inconvenient.
-... 
-And when I arrive at the gates of the Divine Treasury the Registrar will accept my bribe and usher me inside and do you know why? Because I died
-exactly the way I lived-- as a Ferengi!
-
+{% dialogue %}
+QUARK: That's who I am. That's what I do. I'm a businessman. And more than that, I'm a Ferengi businessman. Do you know what that means? It means that I'm not exploiting and cheating people at random. I'm doing it according to a specific set of rules. The Rules of Acquisition. And I won't disregard them when I find them inconvenient.
+QUARK: And when I arrive at the gates of the Divine Treasury the Registrar will accept my bribe and usher me inside and do you know why? Because I died exactly the way I lived-- as a Ferengi!
+{% enddialogue %}
 נאום יפה, אבל קווארק לא אוהב למות. אנחנו רואים הדגמה יפה של האופן שבו גארק שובר לקווארק את המפרקת, אבל זו רק תצוגת תכלית בהולודק, וקווארק לא מתלהב מהרעש. למעשה, שום שיטה שגארק מציע לו לא מוצאת חן בעיניו. כפי שגארק אומר, עבור אדם שרוצה להרוג את עצמו, קווארק נראה די נחוש בדעתו לחיות. לבסוף גארק מבטיח לקווארק שהוא יעשה משהו מפתיע וקווארק לעולם לא ידע מה פגע בו.
 
 מרגע זה והלאה קווארק בחרדה מתמדת, נכנס למיטה ומתעורר - הופס! בשערי הכניסה ל-Divine Treasury. שם הוא פוגש את גינט, הנאגוס הראשון. וגינט הוא... אה... נראה כמו גרסה זקנה של רום. כאן נופל לקווארק האסימון שהוא בסך הכל חולם. ומה התפקיד של גינט? ובכן, לשמש בתור המלאך הטוב ולהגיד לקווארק לשבור את החוזה עם בראנט. מכיוון שגינט הוא סוג של ישו או משה או מוחמד - הנביא שכתב את ה-Rules of Aquisition מלכתחילה, הדיאלוג נושא, כמובן, אופי דתי - ומנצל את ההזדמנות לכך שזו הדת הפרנגית ולא הדת הבאג'ורית כדי לעשות ממנה (ומדתות בכלל) צחוק:
-
-Gint: Now, I'll make it simple. You have to break the contract with Brunt.
-
-Quark: You got to be joking. You're Gint. You wrote The Rules ofAcquisition-- the scared precepts upon which all Ferengi society is based. You of all people can't expect me to break them.
-
-Gint: Why not? They're just rules. They're written in a book, not carved in stone. And even if they were in stone, so what? A bunch of us just made them up.
-
-Quark: Are you saying they don't matter?
-
-Gint: Of course, they matter. That's why they're a best seller. But we're talking about your life here. The Rules are nothing but guideposts... suggestions.
-
-Quark: Then why call them "Rules"?
-
-Gint: Would you buy a book called "Suggestions of Acquisition?". Doesn't quite have the same ring to it, does it?
-
-Quark: You mean it was a marketing ploy?
-
-Gint: Shh! A brilliant one. Rule of Acquisition 239:
-
-Quark: "Never be afraid to mislabel a product."
-
+{% dialogue %}
+GINT: Now, I'll make it simple. You have to break the contract with Brunt.
+QUARK: You got to be joking. You're Gint. You wrote The Rules of Acquisition-- the scared precepts upon which all Ferengi society is based. You of all people can't expect me to break them.
+GINT: Why not? They're just rules. They're written in a book, not carved in stone. And even if they were in stone, so what? A bunch of us just made them up.
+QUARK: Are you saying they don't matter?
+GINT: Of course, they matter. That's why they're a best seller. But we're talking about your life here. The Rules are nothing but guideposts... suggestions.
+QUARK: Then why call them "Rules"?
+GINT: Would you buy a book called "Suggestions of Acquisition?". Doesn't quite have the same ring to it, does it?
+QUARK: You mean it was a marketing ploy?
+GINT: Shh! A brilliant one. Rule of Acquisition 239:
+QUARK: "Never be afraid to mislabel a product."
+{% enddialogue %}
 אוקיי. אז זה מה שהמלאך הטוב מציע לקווארק. ומה מציע המלאך הרע, בדמות בראנט? ובכן, הוא מחליט לעשות פרדי קרוגר ומנסה לחנוק את קווארק תוך כדי החלום שלו. המסר עובר. קווארק מתעורר וכנראה רץ אל גארק לבטל את כל העסק - אנחנו לא רואים את זה קורה ובעצם לעולם לא נדע איך גארק תכנן להפתיע את קווארק. אוף.
 
 אז קווארק הולך אל בראנט, מחזיר לו את הכסף פלוס ריבית, וסופג את הבושה של שבירת חוזה + הוקעה פומבית + החרמה של כל הרכוש שלו. ומה עכשיו?
 
 הפרק יכל להשאיר את קווארק בתוך הכישלון הטוטאלי הזה, אבל הפעם דווקא נראה סביר שמשהו ירים את קווארק מתוך הבוץ, והמשהו הזה הוא כמובן DS9 עצמה, כשמתחיל להגיע זרם של אנשים שמביאים לקווארק משקאות ורהיטים אקראיים ש"צריכים מקום אכסון" וקווארק מבין מהר את הרמז ודורש מסיסקו תשלום עליהם, וכיוצא בזה. זה קיטש, אבל זה קיטש מהנה ואני מחבב את הסוף הזה. זה גם מעיד על כך שהשינוי של הפרנגים בעינינו במהלך הסדרה משפיע גם על הדמויות של DS9 עצמה. וכמובן, זה לא באמת הפי אנד עבור קווארק. ההתרחשות הזו הכריחה אותו לעבור סופית לצד השני של המגרש. הוא עדיין מנודה מקהילת הפרנגים; הוא מוצא את עצמו נדחף לקהילת DS9 נגד רצונו. כדי להבהיר לנו את זה טרחו לתת לנו את הדיאלוג הזה שלו עם רום, כשהוא עוד חושב שהוא הולך למות:
-
-Quark: I'm inextricably linked to the Federation. I'm a joke on Ferenginar. Starfleet's favorite bartender! The synthehol king! What a legacy.
-
-Rom: You're not a joke here. You're a respected businessman... a pillar of the community. A man with... many friends.
-
-Quark: Friends? Community? You sound like some sniveling hu-man. The only opinions I care about are those of my peers-- Ferengi businessmen.
-
+{% dialogue %}
+QUARK: I'm inextricably linked to the Federation. I'm a joke on Ferenginar. Starfleet's favorite bartender! The synthehol king! What a legacy.
+ROM: You're not a joke here. You're a respected businessman... a pillar of the community. A man with... many friends.
+QUARK: Friends? Community? You sound like some sniveling hu-man. The only opinions I care about are those of my peers-- Ferengi businessmen.
+{% enddialogue %}
 מעבר הצדדים הזה של קווארק משעשע עוד יותר כשזוכרים את הנאום של אדינגטון מ-For The Cause. הנה הפדרציה עושה לה אסימילציה של פרנגים - רק רום וקווארק ונוג בינתיים, אבל מה הלאה?

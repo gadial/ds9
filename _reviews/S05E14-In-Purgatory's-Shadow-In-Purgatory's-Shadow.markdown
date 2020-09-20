@@ -17,25 +17,25 @@ guide_comment: "לא. לפספס. את. זה."
 אנחנו מתחילים עם תזכורת לכך שאודו חזר להיות משנה צורה, כשקירה עוזרת לו לסדר מחדש את החדר ומוצאת ספרי "איך להתחיל עם בחורות" וכאלה, ואז שוכחים מאודו המסכן ליתר הפרק - אני מניח שבפרק הבא הוא יעשה קאמבק. האקשן מתמקד בשדר קרדסי שמגיע לתחנה מרביע גאמה, וגארק נשלח לסייע בפענוח שלו, וחוזר לספר לבאשיר וזיאל שזה היה כלום ושום דבר וביי ביי להם. בוא ניזכר מיהו גארק, מכל מה שראינו עד כה: רב-מרגלים ותיק ומנוסה ביותר, אולי המתוחכם והמסוכן ביותר מבין כל הקרדסים. רב המרגלים הזה לא מצליח לעבוד על אף אחד וברור כשמש שהדבר הראשון שהוא הולך לעשות הוא לנסות לגנוב ספינה, ובאשיר כבר מחכה לו שם, עם פייזר שלוף. פייזר שלוף? מה הקטע, באשיר?
 
 מכל מקום, גארק מתרשם מאיך שבאשיר הפך במרוצת השנים לחשדן כזה ומספר את האמת לשם שינוי - זה היה מסר מוצפן בקוד שמכירים רק גארק והמנטור שלו, אנברן טיין. ההוא שהצליח להשמיד את הצי הקרדסי ב-The Die is Cast ולהיעלם ברביע גאמה, אבל כמסתבר לא נהרג אז. וגארק רוצה לצאת למבצע חילוץ. למה, בעצם? ובכן:
-
-Bashir: You don't owe Tain anything. He had you exiled from Cardassia. 
-Garak: Yes, but aside from that, we were very close.
-
+{% dialogue %}
+BASHIR: You don't owe Tain anything. He had you exiled from Cardassia. 
+GARAK: Yes, but aside from that, we were very close.
+{% enddialogue %}
 ברור שכל העסק הוא אישי, אישי מאוד. ברור גם שחוסר היכולת של גארק קודם להיראות אדיש ביחס למסר למרות כל ההכשרה שלו לא הייתה פאשלה של השחקן אלא הרושם שהיה אמור להתקבל. עד סוף הפרק נקבל גם הסבר למה.
 
 לרגע נדמה שאנחנו הולכים לראות עוד הרפתקאת גארק-באשיר מרתקת, אבל אז באשיר מבאס תחת ואומר לגארק שהולכים לדבר עם סיסקו. וסיסקו דווקא זורם עם ההרפתקאה של גארק, אבל שולח איתו את וורף, כי עדיין לא היו לנו מספיק זיווגים מוזרים בסדרה הזו. אנחנו מקבלים סצינת פרידה וורף-דקס (אויש הם כל כך חמודים!!) ויאללה, יוצאים אל... רגע, לא. גם גארק מקבל את הרגע שלו של ארוחה רומנטית עם זיאל שבה הוא בעיקר מנסה להזהיר אותה מפניו ושלא תתאהב בו פתאום או משהו, ובתמורה למאמצים חוטף מכות מדוקאט שהגיע לשם בעיתוי מושלם. גארק מסתלק לו, אבל מכניס לדוקאט בצורה שמשמחת את כולנו שיש גארק:
-
-Garak: You do have a lovely daughter. She must take after her mother. 
-
+{% dialogue %}
+GARAK: You do have a lovely daughter. She must take after her mother. 
+{% enddialogue %}
 היום הולך להיום "יום הציטוטים המוצלחים", מה? אז הנה גם וורף וסיסקו בתדריך שלפני היציאה למשימה:
-
-Sisko: Remember, this is a reconnaissance mission. You are to avoid Dominion ships at all cost. I want you back in one piece. 
-Worf: What about Garak? 
-Sisko: I want him back too. I don't suppose I have to tell you to keep a close eye on him. 
-Worf: At the first sign of betrayal, I will kill him. But I promise to return the body intact. 
-Sisko: I assume that's a joke. 
-Worf: We'll see.
-
+{% dialogue %}
+SISKO: Remember, this is a reconnaissance mission. You are to avoid Dominion ships at all cost. I want you back in one piece. 
+WORF: What about Garak? 
+SISKO: I want him back too. I don't suppose I have to tell you to keep a close eye on him. 
+WORF: At the first sign of betrayal, I will kill him. But I promise to return the body intact. 
+SISKO: I assume that's a joke. 
+WORF: We'll see.
+{% enddialogue %}
 ומה עם אינטראקציית וורף-גארק? יש לנו קצת מזה כשגארק מנסה לעבוד על וורף שהוא רוצה להצטרף לאקדמיה, וזה נחמד, אבל בכנות? העדפתי את איך שהם הלכו מכות ב-Broken Link.
 
 בינתיים דוקאט מעוצבן. כמה מעוצבן? ברמה של ללכת לצעוק על קירה בעניין גארק ולטעון שלהביא את זיאל לתחנה מראש הייתה מזימה קיראיסטית כדי לפגוע בו ועוד כל מני דברים שמראים שדוקאט בטוח שהוא מרכז היקום. קירה לא מתרשמת ממנו עכשיו יותר מאשר התרשמה ממנו ב-Civil Defense כשהוא היה הדבר היחיד שיכול להציל את התחנה, אז הוא רק מתעצבן עוד יותר. משהו אומר לי שמניחים פה את הקרקע לרגע (אולי בפרק הבא?) שבו דוקאט יחזור להיות אויב מר מאוד של DS9.

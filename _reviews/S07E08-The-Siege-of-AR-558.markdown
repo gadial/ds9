@@ -30,17 +30,17 @@ guide_comment: "פרק טוב מאוד עם קצת רלוונטיות להמשך
 ומי היחיד ששורד מבין החיילים בבסיס שאשכרה הכרנו? הפסיכי עם הגולגולות, שגם מציל את סיסקו. את הקרב האמיתי שהסדרה רומזת שהוא יצטרך לנהל אנחנו כבר לא נראה מול המצלמה.
 
 הפרק מסתיים בעוד קצת הבהרה של המסר למי שזה לא ברור לו. קודם כל וורף:
-
+{% dialogue %}
 WORF: This was a great victory. One worthy of story and song. 
 SISKO: It cost enough.
-
+{% enddialogue %}
 ואחר כך קירה:
-
+{% dialogue %}
 KIRA: Sir, the latest casualty reports have just been posted. 
 SISKO: How many this time? 
 KIRA: Including the troops lost at AR five five eight, seventeen hundred and thirty. 
 SISKO: Seventeen hundred thirty. 
 KIRA: That's a lot of names. 
 SISKO: They're not just names. It's important we remember that. We have to remember.
-
+{% enddialogue %}
 תודה. עכשיו אנחנו זוכרים שאנחנו במלחמה ושמלחמה היא גיהנום. אולי תמצאו דרך לסיים אותה?

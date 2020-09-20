@@ -26,27 +26,35 @@ guide_comment: "המשך ישיר של הפרק הקודם וכולל את אח�
 {% dialogue %}
 SISKO: Establish a dialogue? What does she think l've been doing? Belonging to the Federation does not mean that people are saints. Do you know what the trouble is? The trouble is Earth. On Earth, there is no poverty, no crime, no war. Out of the windows of Starfleet headquarters is paradise. lt's easy to be a saint in paradise. But the Maquis do not live in paradise. ln the Demilitarised Zone all the problems haven't been solved yet. Out there, there are no saints, just people - angry, scared, determined people, who will survive whether the Federation likes it or not.
 {% enddialogue %}
+
 אמירה מפורשת - החזון האוטופי של מסע בין כוכבים? תשכחו ממנו. הוא אשליה. אנחנו ב-DS9 הולכים להראות לכם את העולם האמיתי. יפה יפה.
 
 בינתיים, אודו עולה על זה שקווארק עשה עסקים עם הוולקנית המחתרתית בפרק הקודם. מול אודו וסיסקו קווארק נשבר חיש קל ומודה שתיווך לה עסקת נשק - לכמות רצינית של נשקים. רגע, מה? קווארק נשבר בכזו קלות ואין לו סיפור כיסוי? מה יהיה? כשסיסקו עוזב, אודו שואל אותו עד מתי להחזיק את קווארק וסיסקו עונה "לנצח" עם הבעה שהיא Priceless. אוהו, סוף סוף התחילו לתת לו שורות מוצלחות!
 
 ומה קורה עם הביג בוס הקרדסי? ובכן, אחרי השיחה איתו כמה דברים נהיים ברורים - הקרדסים אכן מבריחים נשק לאיזור המפורז, כדי להיפטר מהמתיישבים המעצבנים של הפדרציה; לא בא להם להיכנס לעימות עם הפדרציה על זה כרגע; הם מצאו להם כל מני שעירים לעזאזל כשהשעיר לעזאזל המרכזי הוא דוקאט. שלום וביי! זה משכנע את סיסקו לצאת חיש קל להציל את דוקאט, וכשקירה מנסה להתנגד הוא עונה ש-
 
-"The Central Command wants him dead. That's reason enough for us to want him alive."
-
+{% dialogue %}
+SISKO: The Central Command wants him dead. That's reason enough for us to want him alive.
+{% enddialogue %}
 רגע, אבל איך הם יודעים איפה דוקאט? נו, טכנובאבל. הם מוצאים אותו על איזה כוכב, יחד עם הוולקנית ועוד כמה אנשי מאקי מעצבנים, בעוד סצינה שנראית כמו התגרות של יוצרי הסדרה בחוקים האוטופיים שהם לכאורה עדיין כפופים עליהם. המאקי מנסים להוציא מדוקאט אינפורמציה עם ההוקוס-פוקוס הטלפתי של הוולקנים, וזה נכשל כשלון חרוץ. דוקאט לועג להם:
 
-"On Cardassia, we know how to extract information, though it can get a bit unpleasant, and we all know how the Federation dislikes unpleasantness."
+{% dialogue %}
+DUKAT: On Cardassia, we know how to extract information, though it can get a bit unpleasant, and we all know how the Federation dislikes unpleasantness."
+{% enddialogue %}
 
 כל צופי TNG כנראה זוכרים איך נראות שיטות העינוי הקרדסיות, שהופיעו באחד מהפרקים הטובים ועוכרי השלווה ביותר בסדרה. אבל שם ראינו קרדסים רעים מענים איש פדרציה טוב. הפדרציה ה"אוטופית" לא תעז להתלכלך ככה בעצמה - בסדרה כמו TNG לא היה סיכוי שהיינו רואים דברים כאלו. אבל ב-DS9? איש המאקי אומר שאין לו ממש סנטימנטים לפדרציה (DS9 רוצה להיות שונה!) אבל דוקאט עונה ש-
 
-"Unfortunately, the Federation has taught you your lessons all too well. You simply lack the commitment it takes to do what is necessary."
+{% dialogue %}
+DUKAT: Unfortunately, the Federation has taught you your lessons all too well. You simply lack the commitment it takes to do what is necessary.
+{% enddialogue %}
 
 ההתגרות ממשיכה - האם DS9 באמת תעז לשבור את החוקים? אם לשפוט על פי איש המאקי, נראה שכן, אבל סיסקו מתפרץ באמצע והורס את החגיגה. כשסיסקו מנסה דיפלומטיה סטייל פיקארד, דוקאט מתעצבן ומתחיל לתהות למה הוא לא פשוט יורה בכולם. וזה אכן נגמר בכך שסיסקו ושות' יורים בכולם (הלם, הלם). העובדה שדוקאט יוצא שוב ושוב צודק תוך שהוא מטיף לעולם מלוכלך יותר - זה לא מקרי.
 
 איזה כיף! דוקאט חזר! והוא שוב מנהל דיאלוגים ארוכים עם סיסקו שבהם הוא עושה ממנו צחוק! איכשהו זה מתגלגל לדיון על מערכת המשפט הקרדסית המוצלחת שבה גזר הדין תמיד ידוע מראש. אז למה עושים את המשפט? כי ההמונים אוהבים שואו. ואז הם מגיעים לחלק שבו דוקאט תוהה למה הקרדסים לא עזרו לו, ולסיסקו יש את העונג לספר לו שהוא הפך לשעיר לעזאזל שלהם:
 
-"He said that you were the one responsible for smuggling weapons into the Demilitarised Zone, that if the Maquis did not execute you, they would. After a comforting trial, l'm sure."
+{% dialogue %}
+SISKO: He said that you were the one responsible for smuggling weapons into the Demilitarised Zone, that if the Maquis did not execute you, they would. After a comforting trial, l'm sure.
+{% enddialogue %}
 
 טיהי!
 

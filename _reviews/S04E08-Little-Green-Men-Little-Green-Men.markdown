@@ -17,21 +17,23 @@ guide_comment: "נטול חשיבות עלילתית ואני מבין את אל
 
 עכשיו אנחנו מקבלים סצינה של קווארק-רום-נוג בחללית בדרך לכדור הארץ, וזה נפלא. בלי ששמנו לב כמעט, פתאום יש בסדרה שלוש דמויות שונות לגמרי של פרנגים, כל אחת עם אופי ייחודי לה, ויש ביניהן דינמיקות מצויינות. הסצינה הזו, והפרק בכלל, מראות שכבר הפסקנו מזמן לצחוק על הפרנגים ועכשיו אנחנו צוחקים עם הפרנגים. ראינו את זה כבר בעונה הקודמת, אבל זה רק הולך ומשתפר. אמרו לי שזה יקרה, ואני מאוד מרוצה לראות שזה קורה (באופן כללי, אמרו לי שבעונה 4 אני אתחיל לקבל תשובות לכל הטענות שלי, ואני מאוד מרוצה לראות שזה אכן קורה). הנה דוגמה לדינמיקה המשפחתית כשרום ונוג מגלים מה בדיוק היה המניע של קווארק לטיול הזה:
 
-Quark: This trip is taking long enough as it is.
-Rom: Relax, Brother. I know kemacite is unstable but another day or two won't make any difference.
-Quark: What are you talking about?
-Rom: The shipment of kemacite that you're smuggling in the cargo hold.
-Nog: Uncle, are you smuggling kemacite? Isn't that dangerous?
-Rom: Dangerous... and highly profitable. Especially if we make a side trip to Orion on the way home from Earth.
-Quark: What tipped you off?
-Rom: When I engaged the impulse engines I noticed the ship's weight distribution was a little off so the last time you went to waste extraction I snuck back to the cargo bay and took a look around.
-Quark: When did you get to be so smart?
-Rom: I've always been smart, Brother. I've just lacked self-confidence. Of course, I could forget everything I saw.
-Quark: How much?
-Rom: 20 percent of the profits.
-Quark (to Nog): I suppose you'll want a cut, too?
-Nog: As a Starfleet Cadet, it's my duty to report any violation of Federation law to my superiors immediately... but then again, I haven't been sworn in yet. I'll take 10 percent.
-Quark: It's a deal.
+{% dialogue %}
+QUARK: This trip is taking long enough as it is.
+ROM: Relax, Brother. I know kemacite is unstable but another day or two won't make any difference.
+QUARK: What are you talking about?
+ROM: The shipment of kemacite that you're smuggling in the cargo hold.
+NOG: Uncle, are you smuggling kemacite? Isn't that dangerous?
+ROM: Dangerous... and highly profitable. Especially if we make a side trip to Orion on the way home from Earth.
+QUARK: What tipped you off?
+ROM: When I engaged the impulse engines I noticed the ship's weight distribution was a little off so the last time you went to waste extraction I snuck back to the cargo bay and took a look around.
+QUARK: When did you get to be so smart?
+ROM: I've always been smart, Brother. I've just lacked self-confidence. Of course, I could forget everything I saw.
+QUARK: How much?
+ROM: 20 percent of the profits.
+QUARK: (to Nog) I suppose you'll want a cut, too?
+NOG: As a Starfleet Cadet, it's my duty to report any violation of Federation law to my superiors immediately... but then again, I haven't been sworn in yet. I'll take 10 percent.
+QUARK: It's a deal.
+{% enddialogue %}
 
 אבל לא באנו לפה סתם לקייטנת פרנגים, הפרק הולך לאנשהו. כשהם מתקרבים לכדור הארץ, נוג בדיוק מוצא את התמונה של סיסקו בתור "גבריאל בל" מ-Past Tense. למה מזכירים לנו את הפרק הזה? כי רגע אחר כך רום מגלה שמנוע העל-חלל של הספינה הוא דפקטיבי במכוון ומנסה לתקן ואז יש מהומה ואז שקר כלשהו של החומר המסוכן שבתא והופס - הדבר הבא שקורה הוא שקווארק מתעורר באיזה חדר שעליו צופים אנשי צבא עם סיגריות שמשתמשים בטלפון חוגה ועל הקיר יש תמונת פין-אפ אמריקאית. וזה אומר בדיוק דבר אחד למי שכבר מכיר את הדברים הללו - רוזוול.
 

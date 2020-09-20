@@ -45,23 +45,17 @@ guide_comment: "פרק חביב עם השלכות די משמעותיות על �
 
 בשלב הזה הפרק מספק לנו דיאלוג מבריק בין קווארק לאישקה:
 
+{% dialogue %}
 ISHKA: So how come you're still here, Quark? After all, Brunt is right. You should be back on Deep Space Nine, celebrating your victory. You've proven yourself a true Ferengi. You've betrayed friends and family for personal gain. 
-
 QUARK: It sounds so good when you say it. 
-
 ISHKA: But? 
-
 QUARK: I think I've been hanging around humans too long. I think I'm developing a...
-
 ISHKA: Conscience? 
-
 QUARK: It's been coming for a long time. I've fought against it, I really have. But living with those people day in and day out, being exposed to their ethics, their morality. It's like I've been brainwashed. 
-
 ISHKA: You poor boy. 
-
 QUARK: Moogie, I'm serious! 
-
 ISHKA: Oh, I know you are. And I know how important your problems are to you. But frankly, Quark, right now I don't give a damn about them!
+{% enddialogue %}
 
 מה שאני אוהב בדיאלוג הזה הוא שאנחנו מתחילים עם קווארק שמספר באופן מפורש מדי על התהליך שהוא עובר בסדרה, וזה מרגיש כמו יד תסריטאית גסה מדי, אבל אז מגיעה השורה התחתונה של אישקה ומזכירה לנו ולקווארק מה המקום הנכון של התהליך הזה. פרט לכך, יש לנו כאן סיטואציה שוביניסטית נפוצה - החיים של אישקה זה עתה נהרסו לגמרי (על ידי קווארק, לא פחות) אבל כל מה שקווארק מסוגל לדבר עליו זה הוא עצמו והצרות שלו, ומאישקה מצופה להיות אמא טובה וקשובה ולזרוק הכל ולסייע לו והיא לא מוכנה לשתף פעולה עם החרא הזה. ככה עושים את זה!
 

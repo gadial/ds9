@@ -18,18 +18,18 @@ guide_comment: "חשוב במידת מה בהמשך אבל בעיקר פרק מ�
 הפרק מתחיל עם סיסקו שמקליט יומן אישי שמנסה להסביר מה לעזאזל קרה בשבועיים האחרונים (סטייל או'ברייאן ב-Whispers). הוא ממש מבולבל ולא מפוקס - זה כבר יצר אצלי ציפיה לגלות שהתעלול הקטן שלו עלה בחיי כל התושבים של כוכב לכת כלשהו או משהו בסגנון. אבל לא. הסיפור מתחיל עם הריטואל השבועי שבו סיסקו תולה את דף הנפגעים במלחמה לאותו השבוע, דקס מגלה שחברה שלה נהרגה במארב של הדומיניון בתוך השטח המפורז עם הרומולאנים, עולה השאלה למה הרומולאנים מאפשרים את זה (כי הם מרוצים מאיך שהדומיניון והפדרציה הולכים מכות, כמובן) ולמה הם לא משתפים פעולה עם המלחמה. ואז עולה לסיסקו הרעיון.
 
 בהתחלה הוא מנסה סביר - לדסקס את העניין עם דקס שמעמידה פני נציג רומולאני, והמסקנה פשוטה - הגיון אסטרטגי לא יועיל כאן, הרומולאנים צריכים ראיות לכך שהדומיניון מתכנן תקיפה שלהם. ולא בטווח-הארוך-אולי; כאן ועכשיו. אז סיסקו מחליט לנסות להשיג ראיות כאלו, ופונה אל מי שלכאורה יש לו סיכוי להשיג אותן מקרדסיה - גארק. עד כאן, שום דבר חריג במיוחד ביחס למה שסיסקו עשה עם גארק בעבר, אבל כבר עכשיו הפרק מפחיד אותנו:
-
+{% dialogue %}
 GARAK: To do what you're asking would use up every resource I have left on Cardassia. And it may be a very messy, very bloody business. Are you prepared for that? 
 SISKO: I posted my fourteenth casualty list this morning. I'm already involved in a very messy, very bloody business. And the only way I can see to end it is to bring the Romulans into the war. I am prepared to do whatever it takes to accomplish that goal, but I can't do it alone. I need help.
-
+{% enddialogue %}
 אז סיסקו מסכים, גארק מתחיל את הגישושים שלו, ו... וכדי להוסיף לחץ, פתאום הדומיניון כובש את בטאזד. אז בשיחה הבאה שלהם, כשגארק מדווח על כשלון מוחץ בהפעלת הקשרים שלו כדי להשיג ראיות (יצר קשר עם אנשים ואז הם כולם מתו באופן מסתורי), סיסקו פתוח לאפשרות של תוכנית ב'. ותוכנית ב' אומר להטעות את הרומולאנים עם ראיות מזוייפות. ולצורך כך צריך: א) מישהו שיוכל לייצר זיוף שכזה וב) מוט מקגאפין קסום של הקרדסים שעליו הם משתמשים לאכסון מידע מאובטח סופר דופר לכתיבה חד פעמית בלבד וההקלטה חייבת להיות עליו אחרת לא ניתן יהיה להאמין לה.
 
 שני אלו גובים מחיר. לא *ה*מחיר, אבל זה שלב הביניים בדרך.
 
 הזייפן הוא מישהו שמחכה להוצאה להורג אצל הקלינגונים, וסיסקו שולף אותו משם. הזייפן שמח ועליז עד שהוא שומע שגארק מעורב ואז מתחיל להיות מודאג - מספיק מודאג כדי ללכת אל קווארק ולשתות את עצמו לדעת ולהתחיל לתקוף את אחת מנערות הדאבו וכשקווארק מנסה לעזור לה, לדקור אותו. זה לא מוביל לנזק רציני לקווארק אבל כן לשיחה שלו עם סיסקו שנאלץ להציע לו שוחד כדי להשתיק את כל הסיפור. קווארק מתמוגג עד הגג, ומקנח ב-" Thank you for restoring my faith in the ninety eighth Rule of Acquisition. Every man has his price." תודה פרק שאתה אומר לנו את המסר בפרצוף. רגע, עדיין לא הבנו את המסר? אז קבלו את הדבר הבא שסיסקו אומר בסיפור המסגרת!
-
+{% dialogue %}
 SISKO: That was my first moment of real doubt, when I started to wonder if this whole thing was a mistake. So then I went back to my office and there was a new casualty list waiting for me. People are dying out there every day. Entire worlds are struggling for their freedom and here I am still worrying about the finer points of morality. No, I had to keep my eye on the ball. Win the war, stop the bloodshed. Those were the priorities!
-
+{% enddialogue %}
 ה"אתגר" הבא בתור הוא המקגאפין שגארק צריך להשיג והדרך היחידה שלו להשיג אותו היא באמצעות עסקה מפוקפקת במיוחד שמערבת חומר שקרכלשהו שיכול לשמש לייצור נשקים ביולוגיים וסיסקו מאלץ את באשיר לספק לו. באשיר פה על תקן הישר-כמו-סרגל (מאוד מתאים, בהתחשב במה שקרה זה עתה ב-Inquisition) ואומר שייאלץ להגיש תלונה ולציין בדו"ח האישי שלו וכו'. לסיסקו אין מה לדאוג כי התוכנית שלו מגובה על ידי ההנהלה, אבל מה עם המצפון שלו?
 
 החלק השלישי של התוכנית כולל סנטור רומולאני שהוא התומך הקולני ביותר של הדומיניון שבדיוק חוזר מפגישה עם וואיון ויסכים לבצע סטיה מהמסלול ולבקר בתחנה אם יש לכך סיבה טובה. סיסקו הולך להיפגש איתו ולתת לו את הראיה, בזמן שגארק אומר לסיסקו שהוא יבצע סריקה בספינה שלו ויחפש מידע דיפלומטי שאולי יש...
@@ -39,15 +39,14 @@ SISKO: That was my first moment of real doubt, when I started to wonder if this 
 הסנטור מגיע, והוא אמנם מעצבן אבל בסופו של דבר גם מדבר יחסית לעניין - לא הרומולאני הכי נוראי מאלו שפגשנו. סיסקו מנסה לשכנע אותו בלי זיופים - לא מצליח. נותן לו את הזיוף - גורם לסנטור להתעניין ולבדוק על מה מדובר בזמן שסיסקו מחכה במשרד שלו. בסופו של דבר הוא קורא לסיסקו לחזור רק כדי לצרוח עליו ש-IT'S A FAKE בצורה כל כך מגוחכת שכמעט התפוצצתי מצחוק למרות האווירה הקודרת של כל הפרק.
 
 אז מה, התוכנית הלכה לעזאזל? לא, התוכנית בוצעה בצורה מושלמת. הרומולאנים מצטרפים למלחמה נגד הדומיניון. מה קרה? קרה שהספינה של הסנאטור התפוצצה. החקירה הולכת לגלות בשרידים של הספינה מוט מקגאפין קרדסי לאכסון מידע, עמיד במיוחד, עם הקלטה מפלילה של הדומיניון. זיוף? לא סביר, הפגמים שאולי יש במוט הם תוצר של העובדה שהספינה התפוצצה. עדים? הזייפן שיצר את ההקלטה מת (לא רואים את זה בפרק אבל זה משתמע בבירור ממה שגארק אומר; קודם לכן גארק הזהיר את הזייפן שהוא "עוד מעט יבוא לבקר אצלו בחדר"), היחידים האחרים שמודעים לה הם סיסקו וגארק, והם לא מדברים. אז מה נשאר? נשארה רק הסצינה המתבקשת שבה סיסקו בא להרביץ לגארק על שהעז ללכלך את הידיים ככה, וגארק מבהיר לו הידיים של מי באמת מלוכלכות כאן. כפי שגארק מסכם:
-
+{% dialogue %}
 GARAK: That's why you came to me, isn't it, Captain? Because you knew I could do those things that you weren't capable of doing. Well, it worked. And you'll get what you want, a war between the Romulans and the Dominion. And if your conscience is bothering you, you should soothe it with the knowledge that you may have just saved the entire Alpha Quadrant and all it cost was the life of one Romulan senator, one criminal, and the self-respect of one Starfleet officer. I don't know about you, but I'd call that a bargain.
-
+{% enddialogue %}
 וזה נכון. מאז ומעולם ידענו שגארק הוא מרגל מסוכן מאין כמותו, אבל אף פעם לא *באמת* ראינו אותו בפעולה; הפעם ראינו אותו בפעולה. וזה התאפשר רק בגלל היד החופשית הנדיבה שסיסקו נתן לו. גארק לבדו לא היה יכול לשחרר זייפן מהכלא הקלינגוני או לספק כמות מכובדת של חומר גלם לנשק ביולוגי בפוטנציה; סיסקו היה האחראי לזה וגארק היה סתם קבלן הביצוע המיומן בצורה יוצאת מן הכלל.
 
 מונולוג הסיום של סיסקו הוא גם הדרך שלו לומר שהוא מכיר בזה, ומקבל את זה, ומוכן לחיות עם זה - ובשורה האחרונה שלו, גם שהוא די סבבה עם זה, מה שכמובן הכי מפחיד כאן.
-
+{% dialogue %}
 SISKO: So I lied, I cheated, I bribed men to cover the crimes of other men. I am an accessory to murder. But most damning thing of all, I think I can live with it. And if I had to do it all over again, I would. Garak was right about one thing. A guilty conscience is a small price to pay for the safety of the Alpha Quadrant, so I will learn to live with it. Because I can live with it. I can live with it. 
-
-Computer, erase that entire personal log.
-
+SISKO: Computer, erase that entire personal log.
+{% enddialogue %}
 זה בוצע מצויין. העונה הזו היא עונה מוצלחת עד להפתיע עבור סיסקו; גם פה, גם ב-Far Beyond the Stars וגם ב-Rocks and Shoals, הפרקים החזקים של העונה שייכים לסיסקו. הסדרה בכושר שיא - ממוקדת ומפוקסת בדיוק בהשקפה שהיא מעוניינת להעביר, סגורה לגמרי על הדמויות שאיתן להעביר אותה, ומעבירה אותה בביצוע חלק ומדויק לגמרי. היה שווה לחכות.

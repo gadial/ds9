@@ -28,22 +28,22 @@ guide_comment: "פרק טוב של ג'ייק ונוג גם אם אין לו הש
 אל תוך הקלחת הזו זורקים את ג'ייק ונוג. מה ג'ייק עושה? סמולטוק עם קולינס, אחת מהצוערות הזוטרות, ומזכיר לה את הבית שלה בירח וגורם לה להשתפך במונולוג געגועים הביתה וכמעט לבכות - בקיצור, סודק את חומת הטירוף הקולקטיבי. בינתיים נוג מתרשם עמוקות מהסיפורים של הקפטן, מקבל סיכת Red Squad ומתמנה לאו'ברייאן של הספינה עם המשימה של לתקן את תקלת ה-Warp 3.2. בקיצור, נטמע היטב בחומת הטירוף הקולקטיבי והולך לדרבן אותו בחזרה.
 
 התוצאה? נוג מתקן כמו גדול את התקלה, ואילו ג'ייק הופך לאויב הציבור מס' 1 ונקרא לשיחת נזיפה על ידי הקפטן והקצינה הראשונה שלו על הפשע של יצירת סערת רגשות במהלך מלחמה. הקפטן תוקע מונולוג שמקפל בתוכו את כל הטירלול של הספינה:
-
+{% dialogue %}
 WATTERS: Jake. May I call you Jake? You're a reporter. Your job is to watch the way events unfold, not participate in them. Right now, you need to stand back. Take a look at where you are and what's going on around you. You're right in the middle of a great story. Maybe one of the greatest stories in the entire Dominion War. This ship is special, Jake. This crew is special. And whatever fates guide this universe, they've have chosen us to achieve some purpose in this conflict. I know that. Just as surely as I know your presence on this ship is no coincidence. You're here to write the story, to tell people of the Valiant and her crew. Don't interfere with the story, Jake. Don't become a part of it. Just let it unfold around you. Observe, listen, and then write it down. May I have your word you'll stay away from Chief Collins? 
-
+{% enddialogue %}
 מה ג'ייק עושה? מסכים, מה עוד יש לו לעשות.
 
 בינתיים, השיפור של נוג עובד מספיק טוב כדי לאפשר ל-Valiant להשלים את המשימה שלה - למצוא את ספינת האויב שהם רדפו אחריה כל הזמן ולרגל אחריה ולקבל מידע מקגאפין מועיל. הבעיה היא שהם רוצים לעשות יותר מזה. הם עושים ניתוח א-לה מלחמת הכוכבים ומגיעים למסקנה שיש איזו חולשה שמאפשרת את השמדת הספינה אם רק יצמדו אליה וירו איזה טורפדו שעבר טכנובאבליזציה מתקדמת. כולם מסכימים שמדובר על משימה מסוכנת ביותר. אין שום סיבה לבצע אותה; זו לא הייתה המשימה המקורית. אבל הקפטן בשלו:
-
+{% dialogue %}
 WATTERS: It's dangerous, there's no disputing that. And no one would think any less of us if we just turn around and go home. But that means that some other ship with some other crew would be asked to finish the job that we started. I think we can do it. I think we should do it.
-
+{% enddialogue %}
 זה נאום מוטיבציה שכמעט גזור מסרטים הירואיים שבהם הגיבורים מצילים את היום, אבל DS9 היא כבר ממש לא במקום הזה, וברור לנו לאן זה הולך באמת להגיע. ג'ייק מנסה להציל את היום על ידי אזכור של סיסקו פאפא: הוא אומר שאפילו סיסקו לא היה מנסה לעשות דבר כמו זה, ואם הוא לא היה מנסה, פשוט אי אפשר לעשות את זה. לזה הקפטן משיב ב"We're Red Squad and we can do anything." וכל החדר למעט ג'ייק מגלגל העיניים - כולל נוג - מתחיל לזעוק Red Squad Red Squad. זה נראה רע. רע רע רע.
 
 וכדי להבהיר לנו עד כמה ג'ייק הוא קסנדרה בפרק הזה, יש לנו עוד נסיון שכנוע אחד אחרון שלו, את נוג, שכבר עבר לצד של הפנאטים (ואני באמת מתקשה להאשים אותו). זה נגמר, שוב, בעימות בין הצד ה"אזרחי" והצד ה"צבאי" שמבהיר יפה מה יוצרי הסדרה חושבים עליהם:
-
+{% dialogue %}
 NOG: You don't understand because you've never put on one of these uniforms. You don't know anything about sacrifice or honour or duty or any of the things that make up a soldier's life. I'm part of something larger than myself. All you care about is you. 
 JAKE: That's right. All I care about is Jake Sisko and whether or not he's going to be killed by a bunch of delusional fanatics looking for martyrdom. 
-
+{% enddialogue %}
 ואז כבר עוצרים את ג'ייק וזורקים אותו לכלא כך שהוא חסר כל השפעה על מה שקורה בהמשך. קסנדרה מושלמת. במקור הרעיון היה להשתמש בקירה ונוג בפרק הזה ולא בג'ייק, אבל הרי קירה כבר הייתה מטאטאטת את הקירות עם כל הצוערים הללו ועוצרת את משימת ההתאבדות. ההחלפה בג'ייק הייתה רעיון מצוין.
 
 בשלב הזה, למען האמת, תהיתי איך הם הולכים להוציא מכאן את ג'ייק ונוג בחיים. הראנאבאוט הושמדה אז הם לא הולכים לברוח. מה, סיסקו יבוא ויציל אותם ברגע האחרון? או, חס וחלילה, הם אשכרה ינצחו? אבל לא, הסדרה לא מתכוונת לתת הנחות כאן למעט הדבקות בסטטוס קוו של לא להרוג את ג'ייק ונוג. לכן ההתקפה יוצאת לפועל ונראה לחצי שניה שגם מצליחה אבל אז מתברר שהתעלול לא עבד, ספינת האויב לא הושמדה, והיא עצבנית וחזקה מאוד ואין לאן לברוח ופחות או יותר כל מי שבספינה נהרג בזה אחר זה. נוג מצליח להתעשת ברגע האחרון ולברוח עם ג'ייק וקולינס (מה שטיפה הרגיז אותי - היא הייתה היחידה מהצוות שהפגינה רגשות כלשהם, אז בזכות זה הסדרה מצליחה אותה? אבל יש לה עוד חשיבות בהמשך) בתא מילוט. יוצאים עוד תאי מילוט. כולם מושמדים. הסדרה אומרת לנו במפורש שהיא הצילה את המינימום שהיא הייתה חייבת.
@@ -51,7 +51,7 @@ JAKE: That's right. All I care about is Jake Sisko and whether or not he's going
 סצינת הקטל הזו מזכירה שני דברים. ראשית, היא מזכירה את הקטל של הג'אמהדרים בסוף של Rocks and Shoals - גם שם החיילים הנועזים הלכו למוות ודאי למדי בשל תחושת חובה מופרזת, והנה זה קורה גם בצד שלנו. שנית, היא מזכירה את המוות ההמוני של המטופלים של באשיר ב-The Quickening; גם שם יש לנו סצינה כואבת מאוד שבה הגיבור הכל יכול לכאורה של הפרק (באשיר אז, נוג הפעם) מגלה עד כמה הוא הוא קטן בפועל ולאיזה אסון זה גורם. לבסוף, זו גם סצינת הקטל הכי "אישית" שראינו עד כה במלחמה; שמענו על ספינות רבות שהתפוצצו על כל יושביהן, אבל עכשיו היינו על אחת כזו וראינו את האנשים מתים מול העיניים שלנו. זה המשך די ישיר של סצינת החייל-בבור מ-Nor the Battle to the Strong (למרות שהפעם המראות נחסכים מג'ייק, שתקוע בכלא כל הזמן הזה).
 
 כמובן שעכשיו סיסקו ושות' מגיעים כדי להציל את היום - כלומר, הם קולטים את תשדורת ה-SOS של תא המילוט ומצילים אותו, וזהו בערך. לא ברור מה קרה לספינה שבגללה הייתה כל משימת ההתאבדות הזו; גם לא ברור מה קרה למידע הקריטי שה-Valiant הייתה אמורה לאסוף עליה - האם הוא פשוט הלך לאיבוד? למה הקפטן הגאון לא חשב על זה? מכל מקום, זה לא זמן לדבר על הספינה הזו כרגע (היא אולי תחזור בעתיד...?) אלא הגיע הזמן להפקת לקחים ולחרטה. של נוג, כלומר. החלק הכי מזעזע פה (בצורה שקצת מזכירה את Paradise) הוא שקולינס עדיין לא מפיקה לקחים ועדיין לא מתחרטת, והיא עוד היחידה שם שנראתה נורמלית.
-
+{% dialogue %}
 JAKE: Are you okay? 
 NOG: Yeah. You going to write a story about all this? 
 JAKE: Probably. 
@@ -62,7 +62,7 @@ COLLINS: That's not true. Captain Watters was a great man.
 JAKE: Dorian, he got everyone killed. 
 COLLINS: If he failed it's because we failed him. 
 NOG: Put that in your story too. Let people read it and decide for themselves. 
-(Nog goes over to Collins and gives her his Red Squad pin.) 
+NOG: (goes over to Collins and gives her his Red Squad pin) 
 NOG: He may have been a hero. He may even have been a great man. But in the end he was a bad captain.
-
+{% enddialogue %}
 אז לא, לא קיבלתי פרק הומוריסטי של ג'ייק ונוג. קיבלתי משהו עוד יותר טוב של ג'ייק ונוג.

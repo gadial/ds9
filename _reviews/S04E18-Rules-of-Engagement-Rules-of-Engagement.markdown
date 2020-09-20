@@ -41,26 +41,20 @@ guide_comment: "לא חשוב עלילתית, לא מוצלח במיוחד בס�
 
 ובשביל וורף יש לנו את הסיום של הפרק. סיסקו בא לברך את וורף על הזיכוי ולהזמין אותו למסיבה אצל קווארק, ואילו וורף שקוע במרה שחורה וברפלקסיה ומבהיר כמה שהוא אכן רצה להוכיח משהו, וכמה שהוא רצה תירוץ לנקום בקלינגונים, וכדומה, ושאסור היה לו לקבל את המשימה. סיסקו, שהגן עליו בחירוף נפש כל הפרק, סוף סוף יכול לפתוח עליו את הג'ורה אז הוא ממהר להסכים איתו ואומר שזו הייתה הטעות הראשונה ומה הייתה השניה, וכשוורף אומר שלא לבדוק את הספינה קודם סיסקו בכלל מתפוצץ עליו. וכאן הסדרה נוקטת סוג של עמדה פוליטית של קדושים בגן עדן:
 
-Sisko: You made a military decision to protect your ship and crew. But you're a Starfleet officer, Worf. We don't put civilians at risk,
-or even potentially at risk to save ourselves. Sometimes that means we lose the battle and sometimes our lives. But if you can't make
-that choice then you can't wear that uniform.
-
+{% dialogue %}
+SISKO: You made a military decision to protect your ship and crew. But you're a Starfleet officer, Worf. We don't put civilians at risk, or even potentially at risk to save ourselves. Sometimes that means we lose the battle and sometimes our lives. But if you can't make that choice then you can't wear that uniform.
+{% enddialogue %}
 אני בעד. מה הטעם בשבירת הגבולות וה"לכלוך" של DS9 אם אף פעם לא עוצרים ואומרים - היי, זה כן חשוב. על זה כן נשמור. זה משהו שגם בעולם האמיתי צריך.
 
 והפרק נגמר עם דיאלוג מוצלח מאוד שכמעט גורם לי לחבב את סיסקו:
 
-Sisko: Now, all that being true the reality is no harm's been done. There are no dead children on your conscience.You got lucky.
-
-Worf: I do not feel lucky.
-
-Sisko: And that's why, despite everything that's happened you're going to make a hell of a Captain someday. Now, let's go. They'll all be waiting. Look, this party isn't for you as much as it is for them. Things got a little tense there for a while. They need a release, a chance to celebrate.
-
-Worf: But I do not feel like celebrating.
-
-Sisko: Part of being a Captain is knowing when to smile. Make the troops happy-- even when it's the last thing in the world you want to do. Because they're your troops and you have to take care of them.
-
-Worf: Life is a great deal more complicated in this red uniform.
-
-Sisko: Wait till you get four pips on that collar. You'll wish you had gone into botany.
-
+{% dialogue %}
+SISKO: Now, all that being true the reality is no harm's been done. There are no dead children on your conscience.You got lucky.
+WORF: I do not feel lucky.
+SISKO: And that's why, despite everything that's happened you're going to make a hell of a Captain someday. Now, let's go. They'll all be waiting. Look, this party isn't for you as much as it is for them. Things got a little tense there for a while. They need a release, a chance to celebrate.
+WORF: But I do not feel like celebrating.
+SISKO: Part of being a Captain is knowing when to smile. Make the troops happy-- even when it's the last thing in the world you want to do. Because they're your troops and you have to take care of them.
+WORF: Life is a great deal more complicated in this red uniform.
+SISKO: Wait till you get four pips on that collar. You'll wish you had gone into botany.
+{% enddialogue %}
 אגב, בנוגע לכך שוורף יהיה קפטן טוב בעתיד - אני לא יכול שלא להיזכר ב-Tapestry של TNG שעוסק בדיוק בכמה שפיקארד היה חמום מוח בצעירותו ועד כמה זה השפיע על כך שהוא קפטן טוב. שיהיה בהצלחה, וורף.

@@ -22,13 +22,13 @@ guide_comment: "פרק מפתח בעלילה הפרנגית"
 עדיין, הניחוש הסביר הוא שהפרנגים כן מתאחדים ומאתגדים, רק באופן מחתרתי, ושעסקאות שמבוססות על ההתאגדויות הללו נחתמות בשקט. אם הפרק חכם, זה הכיוון שאליו הוא ילך (כמו ב-Prophet Motive, כך גם כאן לא סביר לצפות שנראה שינוי בחברה הפרנגית כתוצאה ממה שהולך פה).
 
 אבל לפני שרום מתחיל לארגן את מרד העבדים שלו, תראו את פיסת הדיאלוג הזו בינו ובין ליטה! לתייג מייד תחת "לא מאמין שהם עשו את זה!" יותר פורץ דרך מהנשיקה של Rejoined!
-
-Rom: It's not Quark's fault that I got sick. I forgot to get my bimonthly ear scan. And besides, I've probably been getting too much oo-mox.
-Leeta: Really? Who's the lucky female?
-Rom: No female. Just me.
-Leeta: I'm sorry.
-Rom: Sorry enough to do something about it?
-
+{% dialogue %}
+ROM: It's not Quark's fault that I got sick. I forgot to get my bimonthly ear scan. And besides, I've probably been getting too much oo-mox.
+LEETA: Really? Who's the lucky female?
+ROM: No female. Just me.
+LEETA: I'm sorry.
+ROM: Sorry enough to do something about it?
+{% enddialogue %}
 ליטה מן הסתם מתחמקת אבל זה לא העניין - נראה לי שזה האזכור הראשון של אוננות בסטאר טראק לדורותיו, ואולי בכלל במד"ב טלוויזיוני לדורותיו? צריך לבדוק את זה. זה חשוב! מאוד! אז מה אם במקום לדבר על אוננות זה על הדבר הקריפי הזה שפרנגים עושים עם האוזניים!
 
 הקש ששובר את גב הגמל הרומי הוא שקווארק מחליט להכריז, עקב חודש הרמדאן, על קיצוץ שכר כולל, ודי ברור לכולם שהרמדאן הוא סתם תירוץ. רום מנסה להוריד את קווארק מהעסק ללא הצלחה, ואחרי שהוא שולף את קלף ה-Brother קווארק מזהיר אותו שבפאב אין אחים, הוא המעסיק ורום העובד שלו, ובכלל הוא מצטער שהוא לא נולד בן יחיד. אאוץ'.
@@ -40,11 +40,12 @@ Rom: Sorry enough to do something about it?
 רום הנלהב חוזר אל באשיר כדי להשוויץ, ובאשיר קצת מבוהל ומנסה להסביר לרום שהוא רק דיבר באופן תיאורטי. למרבה המזל או'ברייאן נמצא בסביבה באותו רגע ונותן לו נאום מוטיבציה נלהב עם סיפור היסטורי על קרוב משפחתו שעמד בראש שביתת כורי הפחם של 1902. הידעתם שלשון או'ברייאן הייתה הלוויה הגדולה ביותר EVER אחרי שמשו אותו מהנהר שבוע לפני סיום השביתה?
 
 לא קיבלנו מספיק או'ברייאן? אז יש לנו מייד אחר כך סצינה שלו עם וורף. וורף כרגיל מתלונן על המערכות שלא מתפקדות ואו'ברייאן מסביר לו שזה הקטע הקטן הזה של לערבב טכנולוגיות קרדסיות, באג'וריות ושל הפדרציה. ממשקים זה רוע. וורף לא מבין איך או'ברייאן לא משתגע, מה שמוביל לאחת משורות המחץ הטובות עד כה בסדרה:
-
-Worf: How do you tolerate working in this environment?
-O'Brien: Well, it's a lot easier than working on the Enterprise.
-Worf: Easier? The Enterprise never had these kind of problems.
-O'Brien: Tell me about it. Have you any idea how bored I used to get sitting in the transporter room waiting for something to break down?
+{% dialogue %}
+WORF: How do you tolerate working in this environment?
+O'BRIEN: Well, it's a lot easier than working on the Enterprise.
+WORF: Easier? The Enterprise never had these kind of problems.
+O'BRIEN: Tell me about it. Have you any idea how bored I used to get sitting in the transporter room waiting for something to break down?
+{% enddialogue %}
 
 לגמרי הקומיקס של Chief O'Brien at Work הרבה לפני שהוא היה קיים.
 

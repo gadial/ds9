@@ -21,12 +21,14 @@ guide_comment: "פרק טוב, עם חשיבות כלשהי לעלילה הרא�
 
 אבל לפני זה, לפחות, אנחנו מקבלים דיאלוג באשיר-או'ברייאן משעשע, שמראה כמה הדמות של באשיר הפכה להיות מוצלחת מאז "באשיר ילד כאפות" של העונה הראשונה. הוא עדיין מעצבן, אבל בצורה כיפית. או'ברייאן בנה לעצמו סדנת עבודה בחדר השינה שלו בהיעדרה של קייקו, והיא התלוננה על זה. באשיר עושה להטוטים פסיכולוגיים כדי לפתור את זה:
 
-Bashir: I mean, if anything by spending your free time in the bedroom-- a place you intimately associate with Keiko-- you are actually expressing a desire to be closer to her during her absence. It's quite touching, really.
-O'Brien: Exactly. Exactly! See, you understand. Why can't she see that? Why can't she be more like...
-Bashir: More like...?
-O'Brien: Well, a man. More like a man.
-Bashir: So... you wish... Keiko was a man.
-O'Brien: wish I was on this trip with someone else. That's what I wish.
+{% dialogue %}
+BASHIR: I mean, if anything by spending your free time in the bedroom-- a place you intimately associate with Keiko-- you are actually expressing a desire to be closer to her during her absence. It's quite touching, really.
+O'BRIEN: Exactly. Exactly! See, you understand. Why can't she see that? Why can't she be more like...
+BASHIR: More like...?
+O'BRIEN: Well, a man. More like a man.
+BASHIR: So... you wish... Keiko was a man.
+O'BRIEN: wish I was on this trip with someone else. That's what I wish.
+{% enddialogue %}
 
 המבט על הפרצוף של או'ברייאן כשהוא תפס שהוא כמעט שאל למה קייקו לא יכולה להיות יותר כמו באשיר הוא נפלא.
 
@@ -62,15 +64,17 @@ O'Brien: wish I was on this trip with someone else. That's what I wish.
 
 הפרק נגמר עם עוד דיאלוג של באשיר-או'ברייאן בחללית שלהם. רק שהוא קצת פחות הומוריסטי:
 
-O'Brien: You can bring me up on charges, you know.
-Bashir: Well, that's not really my style.
-O'Brien: I wish things could have been different, Julian.
-Bashir: So do l.
-O'Brien: And I'm sorry I had to destroy your work.
-Bashir: You didn't have to, Chief. You had a choice, and you chose to disobey orders, override my judgment and condemn those men to death.
-O'Brien: Yes, I did... because I thought it was the only way to save your life. Whatever else you may think of who I am and what I did at least try to understand that.
-Bashir: Tonight's supposed to be our weekly darts game.
-O'Brien: Don't worry. I don't feel much like playing either.
-Bashir: Maybe in a few days.
+{% dialogue %}
+O'BRIEN: You can bring me up on charges, you know.
+BASHIR: Well, that's not really my style.
+O'BRIEN: I wish things could have been different, Julian.
+BASHIR: So do l.
+O'BRIEN: And I'm sorry I had to destroy your work.
+BASHIR: You didn't have to, Chief. You had a choice, and you chose to disobey orders, override my judgment and condemn those men to death.
+O'BRIEN: Yes, I did... because I thought it was the only way to save your life. Whatever else you may think of who I am and what I did at least try to understand that.
+BASHIR: Tonight's supposed to be our weekly darts game.
+O'BRIEN: Don't worry. I don't feel much like playing either.
+BASHIR: Maybe in a few days.
+{% enddialogue %}
 
 סיום מוצלח מאוד לפרק, לדעתי.

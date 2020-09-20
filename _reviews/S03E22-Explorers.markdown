@@ -29,9 +29,10 @@ guide_comment: "פרק נטול חשיבות אבל שחושף פן נחמד ב�
 
 או'ברייאן, כמו מהנדס טוב, ממהר לצנן את ההתלהבות של סיסקו ומסביר שספינה כזו לא רק שתהיה פגיעה מאוד לצרות הדרך, גם אין שום סיכוי שתגיע לקרדסיה עם ההנעה שלה, זה ייקח שנים ואין מספיק חמצן וכו' וכו'. את קירה, המאמינה והפטריוטית הנצחית, זה כמובן מרגיז:
 
-Kira: You sound just like a Cardassian. They have denied the possibility of ancient contact for decades. They cannot accept that Bajor had interstellar flight before them.
-
-O'Brien: You're beginning to sound like a Romulan. There's no technology they don't claim they invented first.
+{% dialogue %}
+KIRA: You sound just like a Cardassian. They have denied the possibility of ancient contact for decades. They cannot accept that Bajor had interstellar flight before them.
+O'BRIEN: You're beginning to sound like a Romulan. There's no technology they don't claim they invented first.
+{% enddialogue %}
 
 מכל מקום, סיסקו לא מתכנן לעשות טיול של יותר מכמה ימים שאמור להעביר אותו דרך האיזור הכי בעייתי, כדי להוכיח שהמסע תיאורטית אפשרי. עכשיו מגיע השלב שבו אנחנו אמורים להאמין שהוא בונה תוך כמה ימים (תוך כדי ניהול תחנת חלל) ספינת חלל יותר מתקדמת ממה שיש למין האנושי בימינו. אוקיי, אני אאמין, מה כבר קרה. עכשיו מגיע השלב שבו אנחנו מאמינים שמפקד של תחנת חלל יכול פשוט לצאת לטיול של כמה ימים, בספינה פרימיטיבית שבה הוא נמצא בסיכון גדול במיוחד, אחרי שגאל דוקאט מזהיר אותו שכנראה הקרדסים לא כל כך מתמוגגים מהרעיון של מסע שיוכיח שהבאג'ורים התעלו עליהם (לשם שינוי אני מאמין שדוקאט דואג לסיסקו ולא מנסה לאיים עליו אלא באמת להזהיר), ועם כל הסכנות הללו הוא גם לוקח את ג'ייק איתו. אוקיי, אני אאמין, מה כבר קרה.
 

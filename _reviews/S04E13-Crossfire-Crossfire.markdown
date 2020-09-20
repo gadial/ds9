@@ -19,24 +19,24 @@ guide_comment: "פרק קריטי לעלילה של אודו"
 
 בינתיים בגלל עומס האבטחה ששאקר מייצר והעובדה שקצין האבטחה של הפדרציה לא באיזור כרגע מספחים אל אודו את וורף (לא ממש מבטיח מבחינתו של אדינגטון המסכן שגם לפני וורף בקושי ראינו אותו ועכשיו בטח יתפוגג). וורף עדיין קצת מתקשה להשתלב ומציע כל מני הצעות כמו לפנות איזורים שלמים מכל יושביהם (בלשונו - היה מספיק קשה לאבטח את האנטרפרייז, לאבטח את התחנה הזו נראה בלתי אפשרי) אבל בסך הכל הוא עובד לא רע עם אודו - סוג של פיצוי על הפאשלה מ-Hippocratic Oath. ואז מתפתח בין אודו ובין וורף דיאלוג נפלא, שמועבר על ידי שני השחקנים בצורה מושלמת שלא מאפשרת לדעת אם הדמויות רציניות או צוחקות (והאם כל אחד מהם מודע לכך שהשני רציני או צוחק). כלומר, זה מתחיל רציני, אבל...
 
-Worf: I prefer a more... orderly environment.
-Odo: We have that in common. My people have an innate need for order.
-Worf: How do you tolerate living here?
-Odo: I make order where I can. For one thing, I have a daily routine which I follow unwaveringly. The shopkeepers on the Promenade joke that they can set their clocks by me.
-Worf: Unfortunately, I have found it difficult to establish a routine here.
-Odo: There are other ways to create order in your life-- your quarters, for example. Everything in mine has its specific place and it's all arranged just so.
-Worf: Yes, mine, too. Even with my eyes closed I would still know where everything was.
-Odo: Exactly.
-Worf: I would not tolerate it any other way.
-Odo: I'll tell you what else to do. Make sure everyone knows they can't just drop by your quarters to say "hello." If someone does, whatever
-happens, don't make them feel welcome.
-Worf: Of course not. That would only invite subsequent visits.
-Odo: Precisely.
-Worf: So far, the only person that has a tendency to "drop by" is Chief O'Brien.
-Odo: That's probably because he knows you from the Enterprise.
-Worf: Perhaps if I am more... inhospitable, he will stop.
-Odo: Good luck.
-
+{% dialogue %}
+WORF: I prefer a more... orderly environment.
+ODO: We have that in common. My people have an innate need for order.
+WORF: How do you tolerate living here?
+ODO: I make order where I can. For one thing, I have a daily routine which I follow unwaveringly. The shopkeepers on the Promenade joke that they can set their clocks by me.
+WORF: Unfortunately, I have found it difficult to establish a routine here.
+ODO: There are other ways to create order in your life-- your quarters, for example. Everything in mine has its specific place and it's all arranged just so.
+WORF: Yes, mine, too. Even with my eyes closed I would still know where everything was.
+ODO: Exactly.
+WORF: I would not tolerate it any other way.
+ODO: I'll tell you what else to do. Make sure everyone knows they can't just drop by your quarters to say "hello." If someone does, whatever happens, don't make them feel welcome.
+WORF: Of course not. That would only invite subsequent visits.
+ODO: Precisely.
+WORF: So far, the only person that has a tendency to "drop by" is Chief O'Brien.
+ODO: That's probably because he knows you from the Enterprise.
+WORF: Perhaps if I am more... inhospitable, he will stop.
+ODO: Good luck.
+{% enddialogue %}
 דבר אחד נראה ברור כבר עכשיו - שעד סוף הפרק השגרה והדיוק של אודו הולכים להתרסק לחלוטין. אחרת זה לא יהיה שווה כלום. למרבה השמחה, זה בדיוק מה שהפרק עושה.
 
 פרט לכך אנחנו מקבלים כל מני קטעי "שאקר מדבר עם אודו/עושה דברים" משעממים למדי, ואז מגיע אירוע קבלת פנים שבו אודו על תקן השומר עומד עם פנים חמוצות, והסדרה מחליטה שצריך לתת עוד רמז למי שלא עוקבים - קירה באה אליו ושואלת לאיפה נעלמה החגורה שלו כי היא נראתה טוב עליו. השוק המוחלט של אודו (והעובדה שהוא מייצר את החגורה יש מאין ברגע הבא) כבר אומרים לנו הכל. אגב, אני צריך לציין שאני אמנם מודע לקיום הקונספט של "החגורה של אודו" אבל לא זכור לי שאי פעם שמתי לב אליה (או להיעדרה) בסדרה. זה כמו העיוורון המוחלט שיש לי למדים והדרגות של אנשי הצוות.
@@ -52,8 +52,9 @@ Odo: Good luck.
 הפאשלה היא לא של אודו, כן? כלומר, הוא פישל בכך שהוא לא חיכה לססמא של וורף, אבל מערכות אבטחה וגיבוי נורמליות לא היו מאפשרות לסיטואציה מטופשת כמו זו להתרחש מלכתחילה. נו טוב, כמה אפשר לנטפק את בעיות האבטחה של התחנה הזו. הפואנטה היא פשוטה - אודו הגיע לרמה כזו שהוא לא מסוגל לעשות את העבודה שלו בצורה סבירה. אבל האם הוא יודה בזה בכלל?
 
 הוא לא מהסס להודות בפני סיסקו שהוא טעה. מה שגורם לסיסקו לומר את אחד מהציטוטים המטופשים ביותר בהיסטוריה:
-
-They say to err is human. But you're not human, Odo. You're not even humanoid. And this is not the sort of mistake that I'd expect from you.
+{% dialogue %}
+SISKO: They say to err is human. But you're not human, Odo. You're not even humanoid. And this is not the sort of mistake that I'd expect from you.
+{% enddialogue %}
 
 מההההה, סיסקו, מהההההה.
 

@@ -24,13 +24,13 @@ GARAK: How sad. I must tell you I'm disappointed hearing you mouthing the usual 
 סיסקו מייעץ לבאשיר פשוט לשתף פעולה בצורה זהירה עם סלואן ולנצל את ההזדמנות כדי לאסוף מידע גם על מדור 31, אז באשיר יוצא לכנס כמתכונן, על ספינה שבה נמצאים גם אדמירל רוס וגם הסנטור קריטק הרומולאנית... וגם סלואן, שמתחזה לסגן-עוזר-קרטוגרף-בכיר. מה שגורם לבאשיר לתהות מייד למה צריך אותו שם אם סלואן ממילא מצטרף ויכול לרגל בעצמו. ובכן, מהר מאוד המשימה מתבררת יותר טוב - המטרה של באשיר היא ראש הטל-שייר, אחד בשם קובל, שידוע בתור מתנגד נחרץ לברית עם הפדרציה, עד כדי כך שזה מעכב את ההתקדמות הפוליטית שלו והוא לא מקבל כיסא במועצת המקגאפין, ועל אותו הכיסא מתמודדת עכשיו קריטק שהיא ה-BFF של הפדרציה... הבנתם לאן זה הולך. באשיר לא מתבקש לחסל את קובל כרגע, אבל החשד שהוא שיש לקובל מחלת מקגאפין-רומולאנית והוא צריך לאבחן את זה במו עיניו.
 
 אז באשיר פוגש את קובל, וקובל מקריפ בדיוק כפי שאפשר לצפות מרומולאני:
-
+{% dialogue %}
 KOVAL: Koval. 
 BASHIR: Ah. It's a pleasure to meet you. 
 KOVAL: Why? 
 BASHIR: Well, you've got me there. It's just a simple form of expression, I suppose. 
 KOVAL: And like most human expressions, completely devoid of meaning. Can the Dominion's Quickening virus be replicated? 
-
+{% enddialogue %}
 כן, קובל די... אובססיבי בקשר לאיך אפשר לייצר את הנשק הביולוגי הזה ובאופן כללי לא מחבב במיוחד את באשיר. טיפוס פחות סימפטי אפילו מאשר הסנטור ההוא שגארק חיסל בשעתו. נראה שברור לאן הפרק הולך. בזמן שבאשיר מנסה להתאושש מהמפגש הזה, קריטק מנסה לעודד אותו קצת שהוא הצליח להתקרב אל קובל יותר מאשר רוב האנשים כולל היא עצמה מצליחים.
 
 באשיר מדווח לסלואן על הפגישה ועל כך שיש סיכוי שקובל נמצא בשלבים הראשונים בהחלט של המחלה הרומולאנית ההיא, מה שאומר שיש לו עוד שנים רבות לחיות. סלואן מתעניין מאוד - בעיקר בשאלה איך אפשר לגרום למחלה להגיע לשלב הסופני שלה בן רגע, מה שאכן יכול לקרות בתיאוריה. די ברור מה המטרה של סלואן עכשיו, והכל תלוי בכך שבאשיר לא יספר על איך אפשר לקדם את המחלה ככה לאף אחד כי אי אפשר לסמוך על אף אחד ו... אוי לא, באשיר בזה הרגע הלך אל אדמירל רוס, סיפר לו את כל מה שידוע לו ומיוזמתו שלו אמר שהדרך להחמיר את המחלה של קובל היא לחשוף אותו לקרינת כך-וכך וסלואן בוודאי לא יכול לעשות את זה בעצמו אז כנראה שיש לו משתף פעולה בתור רומולוס עצמה, ו...
@@ -46,7 +46,7 @@ KOVAL: And like most human expressions, completely devoid of meaning. Can the Do
 הנסיון של באשיר בכל משחקי הג'יימס בונד והעובדה שהוא גאון-על כן עוזרים לו להבין מה הולך כאן - עכשיו, בדיעבד. ורוס מאשר את הפרטים. קובל הוא חפרפרת של הפדרציה בכלל ומדור 31 בפרט כבר שנה לפחות ומן הסתם כל ההצגה הזו נועדה לבצר את המעמד שלו. ומה עם קריטק? האם היא לא החברה שלנו? ובכן, לא. היא החברה שלנו *כרגע*, אבל מחר, מי יודע? היא פטריוטית אמיתית, לא כמו קובל הבוגד. וממתי אדמירל רוס עובד עם מדור 31? ובכן, הוא לא... אבל עוד פחות מאשר הוא אוהב לעזור למדור 31 הוא אוהב לשלוח אנשי סטארפליט אל מותם. בקיצור, מה שקרה לסיסקו ב-In the Pale Moonlight רחוק מלהיות סינגולרי - לרוס קרה דבר דומה, אם כי כנראה שהוא היה פחות אקטיבי מאשר סיסקו.
 
 כמובן שסלואן לא יכול לוותר על ביקור פרידה אצל באשיר:
-
+{% dialogue %}
 SLOAN: Good evening. 
 BASHIR: Are you expecting applause? Have you come to take a bow? 
 SLOAN: I just wanted to say thank you. 
@@ -54,7 +54,7 @@ BASHIR: For what? Allowing you to manipulate me so completely?
 SLOAN: For being a decent human being. That's why we selected you in the first place, Doctor. We needed somebody who wanted to play the game, but who would only go so far. When the time came, you stood your ground. You did the right thing. You reached out to an enemy, you told her the truth, you tried to stop a murder. The Federation needs men like you, Doctor. Men of conscience, men of principle, men who can sleep at night. You're also the reason Section Thirty one exists. Someone has to protect men like you from a universe that doesn't share your sense of right and wrong. 
 BASHIR: Should I feel sorry for you? Should I be weeping over the burden you're forced to carry in order to protect the rest of us? 
 SLOAN: It is an honour to know you, Doctor. Goodnight. 
-
+{% enddialogue %}
 בתחילת הפרק כשסלואן ביקר אצלו באשיר ניסה לרדוף אחריו אחר כך. עכשיו הוא פשוט... מוותר. אפשר להפנות לפרק הזה תלונה על כך שבאשיר שומר את המצפון והידיים שלו נקיים, לא כמו סיסקו ב-In the Pale Moonlight, אבל אני חושב שאלו פרקים שונים במה שהם מנסים לעשות. שם סיסקו הגיע למסקנה שהוא "יכול לחיות עם זה"; כאן באשיר נאלץ ללמוד "לחיות עם זה" בהקשר לכמה המערכת סביבו רקובה הרבה יותר משהוא היה רוצה להאמין, והוא נאלץ לשתף איתה פעולה. אנחנו לא צריכים שבאשיר ילכלך ידיים; הרעיון הוא שבאשיר ייאלץ להכיר בכך שגארק צדק בדבריו בתחילת הפרק, וזו כבר מהלומה מספיק גרועה עבורו.
 
 יופי של פרק, גם בתור פרק באשיר וגם בתור פרק מדור 31. הסדרה נכנסת אל הישורת האחרונה ברגל ימין.

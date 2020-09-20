@@ -19,68 +19,45 @@ guide_comment: "פרק נחמד עם התפתחות עלילתית עבור חל
 
 זה משאיר את קווארק לבד ב"מירוץ", אבל לקווארק אין מושג איך הוא אמור להתייחס לנשים באופן כללי, ואיך הוא אמור להתייחס לקלינגונים באופן כללי. אז הוא פונה לעזרה אל וורף ודקס. ושואל אותם שאלות על מנהגי החיזור של הקלינגונים. במילים אחרות, יש לפרק הזה את הפוטנציאל להיות הדבר המביך ביותר בהיסטוריה של מסע בין כוכבים, כולל הפרק ההוא של TOS שבו קירק מחזיק נטיף שנראה כמו פין ענק. זה לא קורה. הכתיבה כיפית, השחקנים אחלה, הבימוי (של גארק!) מוצלח, וכל הדברים הללו נעשים בנימה ההומוריסטית הנכונה. זה פשוט כיף. הסצינה הבאה, שבה וורף שומע ושר אופרה קלינגונית על הדיפיינט, לבד בלילה, וקווארק מגיע להודות לו ומתאר איך הדייט שלו עם גרילקה היה הצלחה מסחררת (ובכך מראה שוורף יודע לחזר אחרי קלינגוניות) הולכת מצוין על הקו שבין ההומוריסטי והקצת טראגי.
 
-Quark: She spent about an hour talking about her family history - a rather long and bloody tale, but what else is new? Then, we ate the lingta - which tasted really bad - listened to some noise which she called Klingon music and then I left.
-
-Worf: A perfect evening.
-
+{% dialogue %}
+QUARK: She spent about an hour talking about her family history - a rather long and bloody tale, but what else is new? Then, we ate the lingta - which tasted really bad - listened to some noise which she called Klingon music and then I left.
+WORF: A perfect evening.
+{% enddialogue %}
 בינתיים קו העלילה השני של או'ברייאן וקירה הולך על חבל דק אפילו יותר. אנחנו מקבלים שיחות של או'ברייאן/קירה עם החברים הטובים ביותר שלהם על הסיטואציה, והחברים הטובים הללו לא מפספסים כלום:
-
-O'Brien: Oh, by the way, I almost forgot. She, uh... she has a... a rash on the back of her thighs. Do you have a salve or something?
-
-Bashir: How long has she had it?
-
-O'Brien: Well, I noticed it yesterday when I was helping her out of the bathtub. So she's had it at least a day.
-
-Bashir: Helping her out of the tub?
-
-O'Brien: She's living in my house. She's having my baby.
-
-Bashir: So, uh, did you look?
-
-O'Brien: What? Oh, please. I was holding a towel up in front of her.
-
-Bashir: How does Keiko feel about you helping Kira out of the tub?
-
-O'Brien: Keiko feels fine about it. You see, we are adults. We've developed a close, mature relationship.
-
-Bashir: I'm sure that Keiko and Kira have but you...
-
-O'Brien: What about me?
-
-Bashir: I'll bet you looked.
-
+{% dialogue %}
+O'BRIEN: Oh, by the way, I almost forgot. She, uh... she has a... a rash on the back of her thighs. Do you have a salve or something?
+BASHIR: How long has she had it?
+O'BRIEN: Well, I noticed it yesterday when I was helping her out of the bathtub. So she's had it at least a day.
+BASHIR: Helping her out of the tub?
+O'BRIEN: She's living in my house. She's having my baby.
+BASHIR: So, uh, did you look?
+O'BRIEN: What? Oh, please. I was holding a towel up in front of her.
+BASHIR: How does Keiko feel about you helping Kira out of the tub?
+O'BRIEN: Keiko feels fine about it. You see, we are adults. We've developed a close, mature relationship.
+BASHIR: I'm sure that Keiko and Kira have but you...
+O'BRIEN: What about me?
+BASHIR: I'll bet you looked.
+{% enddialogue %}
 קייקו באמת בסדר עם זה - אנחנו מקבלים סצינה שבה או'ברייאן עושה לקירה מסאג' וקייקו עומדת מהצד ומבסוטה. היא בוטחת מספיק באו'ברייאן ובקירה ובאמת אסירת תודה לקירה על העזרה האדירה שלה, ולא מרגישה שמשהו בעייתי מאוד קורה פה. מי שכן מרגיש בלי בעיה הוא אודו, שחזר סוף סוף להיות עצמו (לא, לא מבחינת לחזור להיות משנה צורה, מבחינת לחזור להיות צופה חודר של התנהגות אנושית עם נימת בוז בלתי מוסתרת). הציטוט הבא מאוד לוקה בחסר בלי לראות את ההגשה של אודו:
-
-Odo: Growing fond of the Chief, are we?
-
-Kira: What are you talking about? I've always liked Miles.
-
-Odo: You've always liked the Chief. but *Miles* is a different story.
-
-Kira: Look, I... I am living with him. I am carrying his baby. Don't you think that might change things a bit?
-
-Odo: How so?
-
-Kira: We're closer. It-it's like I'm part of his family.
-
-Odo: Which part?
-
-Kira: What?
-
-Odo: Which part of his family are you? Sister? Daughter? Cousin?
-
-Kira: Could we concentrate on the criminal activities report?
-
-Odo: Of course. And I'll refrain from making any further disparaging remarks about the Chief. I mean, *Miles*.
-
+{% dialogue %}
+ODO: Growing fond of the Chief, are we?
+KIRA: What are you talking about? I've always liked Miles.
+ODO: You've always liked the Chief. but *Miles* is a different story.
+KIRA: Look, I... I am living with him. I am carrying his baby. Don't you think that might change things a bit?
+ODO: How so?
+KIRA: We're closer. It-it's like I'm part of his family.
+ODO: Which part?
+KIRA: What?
+ODO: Which part of his family are you? Sister? Daughter? Cousin?
+KIRA: Could we concentrate on the criminal activities report?
+ODO: Of course. And I'll refrain from making any further disparaging remarks about the Chief. I mean, *Miles*.
+{% enddialogue %}
 ואיך זה נגמר? לקירה ואו'ברייאן נופל האסימון וקירה מחליטה לצאת לחופשה קצרה בבאג'ור. ואז קייקו תובעת שאו'ברייאן ילווה אותה. ואז אנחנו מקבלים את שניהם בספינה שעומדת לצאת:
-
-O'Brien: Tell me about this... this house we're going to.
-
-Kira: It's a gorgeous 200-year-old cottage. It's filled with antiques, sitting in the middle of a deep, dark forest. It's got three fireplaces, two balconies. It's, uh, 20 kilometers from the nearest neighbor, 30 to the nearest town. It gets worse. There's a view. Of the Holana River You can see it from every room in the house and at night, when the stars are out and you can only hear rushing water it may be one of the most romantic spots in all of Bajor.
-
-O'Brien: That's it. I'm not going. I don't care what Keiko says, I'm not going.
-
+{% dialogue %}
+O'BRIEN: Tell me about this... this house we're going to.
+KIRA: It's a gorgeous 200-year-old cottage. It's filled with antiques, sitting in the middle of a deep, dark forest. It's got three fireplaces, two balconies. It's, uh, 20 kilometers from the nearest neighbor, 30 to the nearest town. It gets worse. There's a view. Of the Holana River You can see it from every room in the house and at night, when the stars are out and you can only hear rushing water it may be one of the most romantic spots in all of Bajor.
+O'BRIEN: That's it. I'm not going. I don't care what Keiko says, I'm not going.
+{% enddialogue %}
 זה אכן נגמר בכך שאו'ברייאן נס על נפשו וגם קירה מחליטה שעדיף לה ללכת לראות את שאקר. אבל כמה שזה קשה להם לבצע!
 
 בינתיים בגזרת קווארק העניינים מתחממים. וב"מתחממים" אני לא מתכוון ל"בעזרת וורף ודקס קווארק יודע בדיוק איך לקחת את גרילקה להולודק לסצינת קרב רומנטית ואז יושב איתה לשולחן וממיס לה את הלב במשפטים מנוסחים היטב" למרות שזה קורה, אלא ל"שומר הראש חמום הרוח של גרילקה מתעצבן, מעיף לקווארק מכות ומזמין אותו לדו קרב עד המוות בשל הפגיעה בכבוד המשפחה וכבוד הגזע הקלינגוני כולו או משהו". קווארק היה כבר פעם בסצינה כזו, גם אז בהקשר של גרילקה, ואז במקום להילחם הוא פשוט נכנע ללא קרב ובפוקס לא איבד את הראש כי גאורון עצמו התערב באמצע. כאן, וורף מבהיר, אף אחד לא יתערב באמצע, הוא ודקס לא יכולים להיות נוכחים בקרב, וקווארק פשוט הולך למות.

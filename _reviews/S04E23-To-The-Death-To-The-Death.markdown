@@ -25,47 +25,29 @@ guide_comment: "פרק מוצלח עם חשיבות לקו העלילה של ה�
 
 הסצינה הטובה בפרק, לטעמי, היא דיאלוג של דקס עם ג'אמהדר שבוהה בה:
 
-Dax: Am I really that interesting? You've been standing there staring at me for the last two hours.
-
-Virak'kara: You are part of my combat team. I must learn to understand your behavior. Anticipate your actions.
-
-Dax: There must be something you'd rather do. Maybe get some sleep?
-
-Virak'kara: We don't sleep.
-
-Dax: How about getting something to eat?
-
-Virak'kara: The white is the only thing we need.
-
-Dax: You don't sleep... You don't eat... What do you do for relaxation?
-
-Virak'kara: Relaxation would only make us weak.
-
-Dax: Well, you people are no fun at all. I'm glad I'm not a Jem'Hadar woman.
-
-Virak'kara: There are no Jem'Hadar women.
-
-Dax: So what do you do? Lay eggs?
-
-Virak'kara: Jem'Hadar are bred in birthing chambers. We are able to fight within three days of our emergence.
-
-Dax: Lucky you. So let me get this straight. No sleep, no food... No women. No wonder you're so angry. After 30 or 40 years of that, I'd be angry, too.
-
-Virak'kara: No Jem'Hadar has ever lived 30 years.
-
-Dax: How old are you?
-
-Virak'kara: I am eight.
-
-Dax: I would have guessed at least 15.
-
-Virak'kara: Few Jem'Hadar live that long. If we reach 20, we are considered honored elders. How old are you?
-
-Dax: I stopped counting at 300.
-
-Virak'kara: You don't look it.
-
-Dax: Thank you.
+{% dialogue %}
+DAX: Am I really that interesting? You've been standing there staring at me for the last two hours.
+VIRAK'KARA: You are part of my combat team. I must learn to understand your behavior. Anticipate your actions.
+DAX: There must be something you'd rather do. Maybe get some sleep?
+VIRAK'KARA: We don't sleep.
+DAX: How about getting something to eat?
+VIRAK'KARA: The white is the only thing we need.
+DAX: You don't sleep... You don't eat... What do you do for relaxation?
+VIRAK'KARA: Relaxation would only make us weak.
+DAX: Well, you people are no fun at all. I'm glad I'm not a Jem'Hadar woman.
+VIRAK'KARA: There are no Jem'Hadar women.
+DAX: So what do you do? Lay eggs?
+VIRAK'KARA: Jem'Hadar are bred in birthing chambers. We are able to fight within three days of our emergence.
+DAX: Lucky you. So let me get this straight. No sleep, no food... No women. No wonder you're so angry. After 30 or 40 years of that, I'd be angry, too.
+VIRAK'KARA: No Jem'Hadar has ever lived 30 years.
+DAX: How old are you?
+VIRAK'KARA: I am eight.
+DAX: I would have guessed at least 15.
+VIRAK'KARA: Few Jem'Hadar live that long. If we reach 20, we are considered honored elders. How old are you?
+DAX: I stopped counting at 300.
+VIRAK'KARA: You don't look it.
+DAX: Thank you.
+{% enddialogue %}
 
 וחוץ מזה יש לנו סצינת "או'ברייאן אוכל ומעצבן ג'אמהדר וגורם לוורף ללכת מכות איתם" שנגמרת בכך שאנחנו רואים איך סיסקו והג'אמהדר מענישים: סיסקו נותן לוורף ריתוק, מנהיג הג'אמהדר שובר את המפרקת לג'אמהדר הסורר. זו נקודת שפל יחסית. הדיאלוג עם דקס הבהיר בצורה הרבה יותר מעודנת את ההבדלים בין הפדרציה והג'אמהדר והסצינה הזו לא ממש הכרחית, אבל היא גם לא אמינה. חיסול של ג'אמהדר בזמן שהם צריכים כל אחד בשביל התקיפה... זו סוג של הודאה בכך שאין לחיילי העל הללו מנגנון ציות מינימלי והדרך היחידה לטפל בכל אי ציות היא ניפוי (ההרג הוא לא למטרות הרתעה; הג'אמהדר לא מפחדים ממוות בשום צורה). זה נראה לי לא יעיל בעליל, אבל אולי זול לייצר ג'אמהדרים.
 

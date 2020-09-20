@@ -25,16 +25,18 @@ guide_comment: "חסר חשיבות עלילתית ולא טוב במיוחד"
 
 סיסקו מבסוט עד הגג. תודה לאל, מישהו בא לקחת ממנו את תואר המשיח המעצבן הזה. הוא משכנע את עצמו שאקורם יותר מתאים לנבואות המקושקשות של הבאג'ורים, מברר את ההליך הפרוצדורלי של הפסקת מעמד המשיח ומספר לדקס שאם הוא יגיד שהוא פורש מיוזמתו אז הבאג'ורים יקבלו את החלפת המשיח הזו בלי בעיה. פחחחח, אתם מצפים שנאמין לזה? כלומר, בסדרה זה מה שקורה, אבל זה כאילו לא שמענו על דת מעולם. היי, אתם יודעים מי לא שמע על דת מעולם? אודו. ממש לפני הנאום הראשון של אקורם, הוא מנסה לתחקר את קירה לפשר הדבר המוזר הזה שעד אתמול היא האמינה שסיסקו הוא המשיח ופתאום היא מאמינה שאקורם הוא המשיח. הדיון ביניהם הוא תמצית נהדרת של כל דיון על דת שחילוני ודתי ניהלו אי פעם באינטרנט ואולי בכלל:
 
-Odo: Two days ago, you believed Captain Sisko was the Emissary.
-Kira: Well, he made it clear, he wants to step aside.
-Odo: Does that mean he never really was the Emissary?
-Kira: No.
-Odo: But they can't both be.
-Kira: I don't know. What do you want from me, Odo?
-Odo: Forgive me, Major. I don't mean to be difficult, but your faith seems to have led you to something of a contradiction.
-Kira: I don't see it as a contradiction.
-Odo: I don't understand.
-Kira: That's the thing about faith-- if you don't have it, you can't understand it and if you do, no explanation is necessary.
+{% dialogue %}
+ODO: Two days ago, you believed Captain Sisko was the Emissary.
+KIRA: Well, he made it clear, he wants to step aside.
+ODO: Does that mean he never really was the Emissary?
+KIRA: No.
+ODO: But they can't both be.
+KIRA: I don't know. What do you want from me, Odo?
+ODO: Forgive me, Major. I don't mean to be difficult, but your faith seems to have led you to something of a contradiction.
+KIRA: I don't see it as a contradiction.
+ODO: I don't understand.
+KIRA: That's the thing about faith-- if you don't have it, you can't understand it and if you do, no explanation is necessary.
+{% enddialogue %}
 
 הדיאלוג הזה הוא תענוג, כי למרות שכל מה שקורה בו הוא האמא של הקלישאות, השחקנים מבצעים אותו מעולה, ולשם שינוי בשני הצדדים יש דמויות סימפטיות (קירה ממשיכה להיות נכס כביר לסדרה בזכות העמדות והדעות הלא-ממש-פדרציה שלה). למרבה הצער, זה גם השיא של הפרק, כי רגע אחר כך אקורם מתחיל לדבר ומתווה את הכיוון הלא ממש מוצלח שהפרק ילך אליו מכאן ואילך - הדבר הראשון הוא רוצה לעשות מתוקף תפקידו כמשיח הוא להחזיר את שיטת הקאסטות הבאג'ורית. ומכיוון שהוא המשיח, אף אחד לא הולך לסרב לו.
 
@@ -56,8 +58,8 @@ Kira: That's the thing about faith-- if you don't have it, you can't understand 
 
 בכל זאת, יש משהו משעשע למדי בסיום, אפילו שניים. ראשית, הציפור שקירה ניסתה לפסל בזמן שחשבה שהעתיד שלה הוא בתחום הזה (ראו תמונה). שנית, הרי הנביאים החזירו את אקורם לזמן המקורי שלו - הם שינו את קו הזמן. איך זה יבוא לידי ביטוי? האם אנשים על התחנה לא יזכרו את כל האפיזודה הזו, מלבד סיסקו? ובכן, לא, כולם זוכרים. וכולם זוכרים את קו הזמן הישן - קירה מופתעת לגלות פתאום שפואמה של אקורם היא יותר ארוכה ממה שהיא זכרה, מכיוון שהוא השלים אותה אחרי שחזר. זה לא מסתדר בשום צורה, והסדרה טורחת להתייחס לזה במפורש:
 
-Kira: This is confusing. The last time I read this poem, it ended after the 12th stanza. If the timeline's been changed then why do I remember things
-the way they used to be?
-Sisko (smiling): The Prophets work in mysterious ways.
-
+{% dialogue %}
+KIRA: This is confusing. The last time I read this poem, it ended after the 12th stanza. If the timeline's been changed then why do I remember things the way they used to be?
+SISKO: The Prophets work in mysterious ways.
+{% enddialogue %}
 אני מאשר את הפתרון הזה.

@@ -18,13 +18,13 @@ guide_comment: "סיום מצוין לעונה עם חשיבות מכרעת לה
 עד לפיצוץ הזה, הפרק מורכב מסדרה של רגעי דמויות שונים ומשונים, שמתייחסים כולם לסיטואציה הנפיצה הנוכחית. ראשית, סיסקו פאפא מגלה שג'ייק התחיל לחלטר בתור עיתונאי שמדווח על המצב בתחנה גם בלי לשאול אם מה שסיסקו אומר הוא לציטוט או לא. זו התפתחות נחמדה - ג'ייק הוא דמות מרעננת במובן זה שהוא לחלוטין בתפקידים אזרחיים בזמן שרוב הדמויות בסדרה צבאיות במידה זו או אחרת.
 
 אחר כך יש לנו את קירה, אודו ודקס שעולים על הברחת רוטב יאמוק לתחנה. של קווארק. זוכרים את הרוטב הזה? שרק קרדסים אוהבים ואף אחד אחר לא? קווארק יודע לאן נושבת הרוח. קירה ואודו בקושי מדברים ודקס צריכה לתווך ביניהם ולהחליט מה לעשות עם המטען (להשמיד אותו? שוב פעם דקס יוצאת דושבגית כלפי קווארק), אבל הסצינה פה בעיקר כדי שדקס תתחקר את קירה על מה הולך איתה ועם אודו ושקירה תספר לה על מה שהיא גילתה במהלך Children of Time. התגובה של דקס משעשעת: 
-
+{% dialogue %}
 DAX: Since when? 
 KIRA: Since I don't know. Years. I just found out about it last month. 
 DAX: That explains a lot. 
 KIRA: It does? 
 DAX: Not really. It just seemed like the right thing to say. 
-
+{% enddialogue %}
 חזרה לעניין הראשי. סיסקו שומע מנוג שמועה לפיה הרומולאנים חתמו על הסכם אי-לוחמה עם הדומיניון - אותו הסכם שהם מנסים להפיל גם על באג'ור. לאף אחד אין ספק - מדובר על הכנה למתקפה על הפדרציה, כשהדומיניון מנסה לנטרל לבינתיים את כל מי שיכול להפריע (כמובן, לא ברור מה הרומולאנים יכולים לעשות; כזכור, הם ריסקו את עצמם די טוב ב-The Die is Cast אבל מאז עבר זמן). בשלב הזה לסיסקו נמאס, וגם לסטארפליט נמאס, וההחלטה היא למקש את חור התולעת כדי למנוע מספינות דומיניון נוספות לעבור. האם זה באמת הפתרון הכי טוב? אין שום דרך לפוצץ את חור התולעת? או אולי סיסקו יכול להיכנס פנימה ולבקש מהנביאים שישמידו את כל ספינות הדומיניון שעוברות? לא מעלים את האפשרויות הללו.
 
 הסצינה הבאה כוללת את או'ברייאן, דקס ורום שמנסים להמציא דרך טובה למקש את חור התולעת בלי שהדומיניון יוכלו להתגבר על זה; או'ברייאן ודקס שוברים את הראש בזמן שרום בכלל לחוץ מהחתונה הקרבה ובאה ורק על זה הוא מסוגל לדבר - זה, וכמה פרצי רעיונות אקראיים שהוא זורק בהיסח הדעת ופותרים לאו'ברייאן ודקס את הבעיה. זו סצינה חביבה מאוד, ולא רק בגלל המיתוג מחדש של רום בתור גאון, אלא בגלל שאני בהחלט יכול לראות ישיבות סיעור מוחין אמיתיות שמתנהלות בדיוק ככה.
@@ -37,7 +37,11 @@ DAX: Not really. It just seemed like the right thing to say.
 
 סיסקו מודיע לצוות להתכונן לקרב, ולקירה הוא מודיע שהוא הולך לפנות אל ההנהגה הבאג'ורית בתור ה-Emissary ובתור הקפטן של DS9 ולהגיד להם לקבל את הצעת הסכם אי-הלוחמה שוואיון הציע לקאי ווין בפרק הקודם - מן הסתם, כדי להבטיח שאחרי ש-DS9 תיכבש עדיין לא יגעו בבאג'ור. האם באמת אפשר לסמוך על הדומיניון? על פניו, לפחות בשלב הראשון הזה, כן; הם לא חותמים על הסכמים באופן אקראי, וכל עוד באג'ור לא תתקוף אותם אין להם מוטיבציה, בשלב הזה, לכבוש את באג'ור.
 
-אז נשאר רק להתכונן לכיבוש. זה מתחיל עם פינוי כל הבאג'ורים מהתחנה, ואנחנו מקבלים סצינת פרידה גארק-זיאל. כשזיאל תוהה איך גארק יסתדר, הוא עונה עם סיכום של גארק על פי גארק: "Well, let me tell you a story. I once knew a Cardassian, a dashing, handsome young man with a promising career. But one day, through no fault of his own, he found himself exiled and alone, with nowhere to turn. But did he give up? No. He struck upon a brilliant plan. Rather than fleeing for the rest of his life, he sought shelter in the one place no one expected him to go. In a stronghold of his people's most hated enemies. There, surrounded by hostile strangers, he built a life, and there, against all odds, against the merciless logic of the Universe itself, he thrived. " קצת מזכיר את סצינת ה-Root Beer מ-The Way of the Warrior.
+אז נשאר רק להתכונן לכיבוש. זה מתחיל עם פינוי כל הבאג'ורים מהתחנה, ואנחנו מקבלים סצינת פרידה גארק-זיאל. כשזיאל תוהה איך גארק יסתדר, הוא עונה עם סיכום של גארק על פי גארק: "Well, 
+{% dialogue %}
+GARAK: let me tell you a story. I once knew a Cardassian, a dashing, handsome young man with a promising career. But one day, through no fault of his own, he found himself exiled and alone, with nowhere to turn. But did he give up? No. He struck upon a brilliant plan. Rather than fleeing for the rest of his life, he sought shelter in the one place no one expected him to go. In a stronghold of his people's most hated enemies. There, surrounded by hostile strangers, he built a life, and there, against all odds, against the merciless logic of the Universe itself, he thrived.
+{% enddialogue %}
+קצת מזכיר את סצינת ה-Root Beer מ-The Way of the Warrior.
 
 אנחנו מספיקים לחתונה של ליטה ורום שמייד אחריה ליטה חוזרת לבאג'ור ורום דורש להישאר בתחנה, ומייד אחר כך מרטוק שיצא לסיור מוציא אזהרה שהדומיניון בדרך ויגיעו עוד כמה דקות, ומייד אחר כך האות שלו מטושטש ומוחלף בדוקאט בעצמו (מלווה על ידי וואיון) שיצא לכבוש את התחנה וממש שמח שסיסקו לא מתכנן להיכנע. מה, דוקאט, אין לך איזה יום הולדת לבן שלך להיות בו? את קרדסיה לנהל? משהו? נההה, בשביל דוקאט הכל אישי. הנקמה בסיסקו אישית, והכיבוש מחדש של DS9 אישי.
 

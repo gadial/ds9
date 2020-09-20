@@ -27,11 +27,13 @@ guide_comment: "פתיחה מעולה לעונה שכוללת התפתחות ע�
 
 ואז יש סצינה של אודו וגארק אוכלים ארוחת בוקר. הא, מצוין! לא שארוחות גארק-באשיר זה רע, אבל משמח לראות שבעקבות The Die is Cast אנחנו מקבלים גם ארוחות גארק-אודו. ובכלל, שאנחנו מקבלים גארק. המטרה האינפורמטיבית של הארוחה היא ללמד אותנו שהמצב בקרדסיה די השתגע מאז The Die is Cast. מה שקרה שם חיסל לגמרי את מסדר האובסידיין, ועכשיו הייתה שם הפיכה או מהומה דומה, הגבולות סגורים ובאופן כללי לאף אחד אין יותר מדי מושג מה קורה שם. ואז, כי חייבים להמשיך לטפח את מוטיב החשש מהקלינגונים, אודו וגארק רבים עם קלינגונים חצופים, ואחר כך כשגארק חוזר לחנות הקלינגונים עושים עליו אמבוש. בתור מרגל מוכשר הייתי מצפה מגארק שידע להגן קצת יותר טוב על החנות, לא? לא נורא, זה מניב לנו דיאלוג גארק-באשיר:
 
-Garak: But really, Doctor, there was no harm done.
-Bashir: They broke seven of your transverse ribs and fractured your clavicle.
-Garak: Ah, but I got off several cutting remarks which no doubt did serious damage to their egos.
-Bashir: Garak, this isn't funny.
-Garak: I'm serious, Doctor. Thanks to your ministrations I am almost completely healed. But the damage I did to them will last a lifetime.
+{% dialogue %}
+GARAK: But really, Doctor, there was no harm done.
+BASHIR: They broke seven of your transverse ribs and fractured your clavicle.
+GARAK: Ah, but I got off several cutting remarks which no doubt did serious damage to their egos.
+BASHIR: Garak, this isn't funny.
+GARAK: I'm serious, Doctor. Thanks to your ministrations I am almost completely healed. But the damage I did to them will last a lifetime.
+{% enddialogue %}
 
 אבל הקש ששובר את גב הגמל הוא, כמובן, משהו שסיסקו לוקח אישית. החברה שלו היא קפטן של ספינת משא, אז כשקלינגונים מעכבים את הספינה ומנסים להשתלט עליה כדי לחפש משני צורה, סיסקו וקירה רצים אל הדיפיינט (כי מי צריך שרשרת פיקוד ומי המציא את השטות הזו שהתפקיד של סגן מפקד התחנה הוא להחליף את מפקד התחנה בהיעדרו - אה, רגע, זו הפעם ה-1,000 שבה אני מתלונן על זה, נכון?), משחקים צ'יקן עם הקלינגונים, ברמה של ירי אזהרה ונעילת פייזרים, ובסוף הקלינגונים נכנעים. אבל אין דבר כזה אצל קלינגונים, להיכנע - הגנרל בא לביקור קצר אצל סיסקו, מפטיר מילה זועמת ומשאיר את הנשק של הקפטן שנכנע - סימן שהוא הוציא אותו להורג. אופס.
 
@@ -82,12 +84,14 @@ Garak: I'm serious, Doctor. Thanks to your ministrations I am almost completely 
 
 לפחות כשסיסקו מנסה ליצור קשר עם הקרדסים בשביל להתניע את התוכנית הזו יש לנו דיאלוג דוקאט-סיסקו קלאסי:
 
-Sisko: Dukat? I was trying to reach someone in the civilian government.
-Dukat: And you have succeeded. You are speaking to the new Chief Military Advisor to the Detapa Council.
-Sisko: Does this mean you've turned your back on Central Command?
-Dukat: It means that as a loyal officer of the Cardassian military I am pledged to serve the legitimate ruling body of the Empire whoever that may be.
-Sisko: In other words, you saw which way the wind was blowing and switched sides.
-Dukat: It seemed like a good idea at the time.
+{% dialogue %}
+SISKO: Dukat? I was trying to reach someone in the civilian government.
+DUKAT: And you have succeeded. You are speaking to the new Chief Military Advisor to the Detapa Council.
+SISKO: Does this mean you've turned your back on Central Command?
+DUKAT: It means that as a loyal officer of the Cardassian military I am pledged to serve the legitimate ruling body of the Empire whoever that may be.
+SISKO: In other words, you saw which way the wind was blowing and switched sides.
+DUKAT: It seemed like a good idea at the time.
+{% enddialogue %}
 
 דוקאט מסכים לקחת את הממשלה על ספינה ולפגוש את סיסקו בכך-וכך. סיסקו יעבור את כל הצי הקלינגוני ויגיע לשם בזכות יכולת ההסוואה של הדיפיינט. באשיר מזכיר לסיסקו בעדינות שההסכם עם הרומולאנים קובע שאסור להשתמש בהסוואה ברביע אלפא. סיסקו פשוט מציין שאין להם דרך אחרת להגיע אל דוקאט, ובאשיר כבר למד דבר או שניים ואומר ש"אני לא אגלה לרומולאנים אם אתה לא תגלה". שוב נשאלת השאלה מה פיקארד היה עושה; ושוב אנחנו רואים את הרצון של DS9 להתלכלך יותר.
 
@@ -97,40 +101,44 @@ Dukat: It seemed like a good idea at the time.
 
 טוב, אז תהיה מלחמה עם הקלינגונים. אבל לפחות יש את הכרת התודה של הקרדסים:
 
-Dukat: Captain, would you kindly inform this security guard that he does not have to monitor my every move. It makes me feel unwelcome.
-Dax: Looks like I won, Benjamin. You owe me dinner.
-Dukat: And what is that supposed to mean?
-Dax: Captain Sisko bet me that you would thank him for the rescue before you started complaining.
-Sisko: I lost.
+{% dialogue %}
+DUKAT: Captain, would you kindly inform this security guard that he does not have to monitor my every move. It makes me feel unwelcome.
+DAX: Looks like I won, Benjamin. You owe me dinner.
+DUKAT: And what is that supposed to mean?
+DAX: Captain Sisko bet me that you would thank him for the rescue before you started complaining.
+SISKO: I lost.
+{% enddialogue %}
 
 ובינתיים, בשקט שלפני הסערה ב-DS9, מכיוון שמדובר על פרק כפול, היו צריכים פילרים. אז גארק בא אל קווארק, ואנחנו מקבלים את אחד מהדיאלוגים החביבים ביותר בסדרה עד כה. ברשותכם (כי הוא לא קצרצר), הנה הוא בשלמותו:
 
-Garak: Might I trouble you for a glass of kanar?.
-Quark: Help yourself. It's on the house.
-Garak: Well, how uncharacteristically generous of you.
-Quark: I'm in an uncharacteristic mood. Besides, I've got 80 cases of this stuff sitting in my stockroom. And the way things are going, I'll never unload another bottle unless it's to you.
-Garak: How thoughtless of me not to consider the effects the destruction of my homeworld would have on your business. These must be
-trying times for you. Be brave.
-Quark: I should have listened to my cousin Gaila. He said to me, "Quark, I got one word for you... weapons." No one ever went broke selling weapons. But did I take his advice? No. And why not? Because I'm a people person. I like interacting with my customers Iike you and I are doing right now. Talking to each other getting to know one another.
-Garak: I can see the attraction for you.
-Quark: But when you're dealing in weapons buyers aren't interested in casual conversation. They just want their merchandise no questions asked. So impersonal.
-Garak: Your charms would be wasted.
-Quark: Exactly. So now, Gaila owns his own moon and I'm staring into the abyss. And the worst part of it is my only hope for salvation
-is the Federation.
-Garak: I know precisely how you feel.
-Quark: I want you to try something for me. Take sip of this.
-Garak: What is it?
-Quark: A human drink. It's called root beer.
-Garak: I don't know.
-Quark: Come on. Aren't you just a little bit curious? What do you think?
-Garark: It's vile.
-Quark: I know. It's so bubbly and cloying and happy.
-Garak: Just like the Federation.
-Quark: But you know what's really frightening? If you drink enough of it, you begin to like it.
-Garak: It's insidious.
-Quark: Just like the Federation.
-Garak: Do you think they'll be able to save us?
-Quark: I hope so.
+{% dialogue %}
+GARAK: Might I trouble you for a glass of Kanar?
+QUARK: Help yourself. It's on the house.
+GARAK: How uncharacteristically generous of you.
+QUARK: I'm in an uncharacteristic mood. Besides, I've got eighty cases of this stuff sitting in my stockroom. And the way things are going, I'll never unload another bottle unless it's to you.
+GARAK: How thoughtless of me not to consider the effect the destruction of my homeworld would have on your business. These must be trying times for you. Be brave.
+QUARK: I should've listened to my cousin Gaila. He said to me, Quark, I've got one word for you. Weapons. No one ever went broke selling weapons. But did I take his advice? No. And why not? Because I'm a people person. I like interacting with my customers. Like you and I are doing right now. Talking to each other, getting to know one another
+GARAK: I can see the attraction for you.
+QUARK: But when you're dealing in weapons, buyers aren't interested in casual conversation. They just want their merchandise, no questions asked. It's so impersonal.
+GARAK: Your charms would be wasted.
+QUARK: Exactly. So now Gaila owns his own moon, and I'm staring into the abyss. And the worst part is, my only hope for salvation is the Federation.
+GARAK: I know precisely how you feel.
+QUARK: I want you to try something for me.
+QUARK: Take a sip of this.
+GARAK: What is it?
+QUARK: A human drink. It's called root beer.
+GARAK: I don't know.
+QUARK: Come on. Aren't you just a little bit curious?
+QUARK: What do you think?
+GARAK: It's vile.
+QUARK: I know. It's so bubbly and cloying and happy.
+GARAK: Just like the Federation.
+QUARK: But you know what's really frightening? If you drink enough of it, you begin to like it.
+GARAK: It's insidious.
+QUARK: Just like the Federation.
+GARAK: Do you think they'll be able to save us?
+QUARK: I hope so.
+{% enddialogue %}
 
 מרגע שהדיפיינט חוזרת, אנחנו מקבלים הכנות למתקפה הקלינגונית הבלתי נמנעת שתבוא. החלק הטוב ביותר בהכנות הוא גאראק שבא לעזור לדוקאט, שמצידו ממשיך לחשוד בכוונות של הפייזר של גאראק.
 

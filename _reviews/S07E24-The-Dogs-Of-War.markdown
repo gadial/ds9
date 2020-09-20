@@ -38,14 +38,14 @@ ODO: Interesting, isn't it? The Federation claims to abhor Section Thirty One's 
 ובכן, קווארק מתמוגג מלהיות הנאגוס הבא, וכדי שיהיה לו עוד יותר כיף, הסדרה מביאה משום מקום את הנמסיס שלו - בראנט. בראנט כאן כדי ללקק לקווארק ולעשות לו פדיקור, לא כדי להיות אנטגוניסט; אם אנחנו כבר בפרק הסיום של הפרנגים, אז זו דרך טובה "לנצח" את בראנט בלי להרוג אותו (כי מי רוצה שהוא ימות, בדיוק?)
 
 אבל במובן מסויים בראנט הוא כן אנטגוניסט פה, כי הוא מגלה לקווארק שחלו כל מני... אה... "שינויים" בפרנגינר מאז הפעם האחרונה שבה הוא עקב. כזכור, הפרק האחרון שהתעסק עם הפרנגים (למעט The Emperor's New Cloak שהיה פרק הרפתקאות לא קשור של קווארק ורום) היה Profit and Lace. זה היה פרק מחריד, כמובן, אבל הוא התחיל מבטיח, עם כל מני אזכורים של שינויים חברתיים שמתחילים לקרות בפרנגינר. קווארק המסכן מתפלץ לגלות שהוא לא מיועד לתפקיד מלך הפרנגים אלא יותר לתפקיד מדולל כוחות כלשהו ושיש פרלמנט ומסים ומערכת רווחה ומי יודע מה עוד. זה מוביל לדיאלוג המושלם הזה של קווארק עם רום, שמנסה לנצל את ההזדמנות וסוף סוף לקנות מקווארק את הפאב:
-
+{% dialogue %}
 QUARK: Did you know this Congress of Economic Meddlers actually passed legislation making monopolies illegal? What's the point of being in business if you can't corner the market and gouge your customers? 
 ROM: There's something to be said for keeping prices down by ensuring healthy competition. So what are you going to do with the bar? 
 QUARK: You can't even dump industrial waste anymore because it might harm the natural habitat. I'm supposed to start worrying about animals now? Look how they live, wallowing in dirt, sleeping in trees. That's not natural. 
 ROM: I suppose you could argue that Ferenginar's biodiversity is a precious resource that belongs to everyone. So, what are you going to do with the bar?
 QUARK: And don't even get me started about this whole labour rights thing. What have we come to if you can't demand sexual favors from people in your employ? 
 ROM: Unharassed workers are productive workers. So, what are you going to do with the bar? 
-
+{% enddialogue %}
 זה מסתיים בנאום תוכחה של קווארק נגד זאק והחברה הפרנגית ואיך שצריך למתוח את הקו ושהוא יסרב לקבל את התפקיד אם לא יבוטלו כל השינויים ומה עוד!
 
 ואז זאק ואישקה מגיעים ומעיפים את קווארק הצידה כי מי בכלל רוצה שקווארק יהיה הנאגוס. היה איזה קצר בתקשורת בשיחה ביניהם וזאק חשב שהוא בכלל מדבר עם רום. הופס! יש לנו נאגוס חדש. מעולה!

@@ -29,31 +29,23 @@ guide_comment: "פרק חשוב בקו העלילה של הקרדסים"
 
 מכאן ואילך אפשר לשכוח מ-DS9 ואנחנו בשני מוקדי התרחשות - תומאס מעולל תעלולים על הדיפיינט, וקירה מנסה לעצור אותו; וסיסקו את דוקאט בקרדסיה. ושני המוקדים הללו מוצלחים. יש רגע מטופש בהתחלה שבו קירה נטולת שמירה ומתחילה לפצפץ דברים בתוך הדיפיינט, אבל אחר כך מביאים אותה לגשר הפיקוד והיא עסוקה בעיקר בלהטיף לתומאס. אתם מבינים, תומאס לא סתם רצה את הספינה כדי להתחיל להשמיד דברים. יש לו יעד ברור. יש שמועות על כך שפלג כלשהו בתוך קרדסיה החליט - שלא בידיעת ההנהגה המרכזית - לבנות צי ספינות וכנראה לשלוח אותו להשמיד את המאקי אחת ולתמיד (ואולי עוד דברים?) ותומאס מתקדם הישר לשם (עם עצירות פה ושם כדי לפוצץ בסיסי קרדסים ולשגע אותם). כשקירה שומעת את זה, היא מבינה שתומאס הוא לא באמת טרוריסט, הוא איש חזון, שרוצה להיות גיבור ולהציל את היום. זה אחד הדיאלוגים (למעשה, מונולוג של קירה) הטובים ביותר בסדרה עד כה, לטעמי, שמראה כמה טוב שדחפו דמות כמו קירה לתוך סדרת סטאר טראק:
 
-"You're really not cut out for this, are you? Being a terrorist, I mean. You're not very good at it."
-
-"Really?"
-
-"You're acting more like a Starfleet officer who's more interested in intelligence reports and Cardassian politics, than
-in actually hurting Cardassians. You have one of the most powerful ships in this Quadrant under your command. Why aren't you out attacking every Cardassian outpost along the border?"
-
-"Because these stakes are far greater than border outposts."
-
-"Not for the Maquis, they're not because the Maquis are terrorists and the only thing terrorists care about is attacking the enemy.
-I know-- I was a terrorist and if I had had this ship then I would have destroyed Deep Space 9. I would have hit
-the Cardassians so hard they would have screamed for peace. But I certainly wouldn't have gone flying off into the middle of Cardassia
-on some wild-goose chase."
-
-"I guess we're different kinds of terrorists."
-
-"No... you're trying to be a hero. Terrorists don't get to be heroes."
+{% dialogue %}
+KIRA: You're really not cut out for this, are you? Being a terrorist, I mean. You're not very good at it.
+RIKER: Really?
+KIRA: You're acting more like a Starfleet officer who's more interested in intelligence reports and Cardassian politics than in actually hurting Cardassians. You have one of the most powerful ships in this quadrant under your command. Why aren't you out attacking every Cardassian outpost along the border?
+RIKER: Because these stakes here are far greater than border outposts.
+KIRA: Not for the Maquis, there're not, because the Maquis are terrorists and the only thing terrorists care about is attacking the enemy. I know. I was a terrorist. And if I'd had this ship then, I would've destroyed Deep Space Nine. I would've hit the Cardassians so hard they would have screamed for peace, but I certainly wouldn't have gone flying off into the middle of Cardassia on some wild goose chase.
+RIKER: I guess we're different kinds of terrorists.
+KIRA: No... you're trying to be a hero. Terrorists don't get to be heroes.
+{% enddialogue %}
 
 בגזרת דוקאט וסיסקו המצב טוב לא פחות. בפרט כשדעתו של דוקאט מוסחת, וסיסקו מנסה לברר למה, ומסתבר שדוקאט חשב (באמת! לא תרגיל!) על הילד בן ה-11 שלו:
 
-"I'd promised to take him to the amusement center in Lakarian City. He always wanted to go, but I never had the time. I told him, 'This year will be different, Mekor. This year I will make the time.'"
-
-"I had the same experience with Jake. At that age, they never understand, do they? You just hope that, one day later, they'll look back and say, 'Now I understand. Now I know why he did that.'"
-
-"When my son looks back on this day, the only thing he'll remember is that a Federation officer, on a Federation ship invaded his home, and kept his father away from him on his eleventh birthday, and he won't look back with understanding. He'll look back with hatred, and that's sad."
+{% dialogue %}
+DUKAT: I'd promised to take him to the amusement centre in Lakarian City. He always wanted to go but I never have the time. I told him, this year will be different this year, Mekor. This year I will make the time.
+SISKO: I've had the same experience with Jake. At that age they never understand, do they. You just hope that one day they'll look back and say, now I understand, now I know why he did that.
+DUKAT: When my son looks back on this day, the only thing he'll remember is that a Federation officer on a Federation ship invaded his home and kept his father away from him on his eleventh birthday. And he won't look back with understanding, he'll look back with hatred. And that's sad.
+{% enddialogue %}
 
 רק בשביל הקטעים הללו הפרק היה שווה את זה.
 

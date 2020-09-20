@@ -27,11 +27,13 @@ guide_comment: "פרק טוב עם חשיבות לקו העלילה של הג'מ
 
 הפדרציה, כמובן, רוצה להשתלט על הספסימן כמה שיותר מהר ולהעביר אותו לתחנת מחקר שלה, וקירה הנודניקית המעצבנת שהיא תמיד אנטי כל מה שטוב ומוסרי וצודק מאוד שמחה שנפטרים מהמפגע כמה שיותר מהר, אבל אודו מתנגד, בדיאלוג מצויין עם סיסקו:
 
-"What sort of 'specialists' are we talking about, commander?"
-"There will be a team of xenobiologists and exopsychologists waiting for him."
-"So... they're going to study him. Like a laboratory specimen."
-"Well, he'll be very well treated."
-"So, he'll be a well-treated specimen."
+{% dialogue %}
+ODO: What sort of specialists are we talking about, Commander?
+SISKO: There will be a complete team xenobiologists and exopsychologists waiting for him.
+ODO: So they're going to study him like a laboratory specimen.
+SISKO: He'll be very well treated.
+ODO: So he'll be a well treated specimen.
+{% enddialogue %}
 
 האופן שבו אודו אומר את השורה האחרונה הוא אחד מהדברים המוצלחים ביותר בכל הסדרה. השחקן של אודו שוב מוכיח שהוא פשוט אדיר.
 

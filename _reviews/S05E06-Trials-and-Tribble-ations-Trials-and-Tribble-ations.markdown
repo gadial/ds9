@@ -30,24 +30,24 @@ guide_comment: "פרק נפלא, לא להחמיץ בשום אופן! אין (ב
 קירה נשארת על הדיפיינט ואין לה יותר מדי מה לעשות בפרק, אבל לוורף ואודו יש, גם אם הם לא הולכים לאנטרפרייז: הם מחפשים את המרגל בתחנת החלל עצמה, מה שמבחינת אודו מסתכם בלשבת בפאב ולחכות שההוא יחזור לשם. הפאב הוא אחת מהאטרקציות בפרק המקורי: אנחנו רואים את סצינת המפגש הראשון עם טריבלים שם, ואחר כך גם מגיעים לשם קלינגונים, מציקים לסקוטי וצ'כוב שמתחילים ללכת איתם מכות, והתוצאה היא אחת מסצינות ה-bar fights המגוחכות שראיתי אי פעם. כמובן שב-DS9 לא יכלו להתאפק מלצרף לשם את הצוות, ואז לשים את באשיר ואו'ברייאן במסדר שבו קירק נוזף בצוות (ולהחליף את מי שקירק מדבר איתו במקור באו'ברייאן).
 
 פרט לכך, אודו מצליח להשיג טריבל איכשהו, וכשהוא מראה אותו לוורף הלה מתפלץ. סצינת "וורף ואודו מדסקסים טריבלים" היא כנראה הדבר המוצלח ביותר בפרק שאינו מגיע ישירות מ-TOS:
-
-Worf: I have completed my search of the primary habitat levels and... What is that sound? 
-Odo: Soothing isn't it? The bartender called it a... 
-Worf: A tribble. 
-Odo: Sit down. You're drawing attention. 
-Worf: Where did you get that thing? 
-Odo: From a man named Cyrano Jones. He told me tribbles like everyone, but this one doesn't seem to like you. 
-Worf: The feeling's! The feeling's mutual. They are detestable creatures. 
-Odo: Interesting. It's been my observation that most humanoids love soft, furry animals especially if they make pleasing sounds. 
-Worf: They do nothing but consume food and breed. If you feed that thing more than the smallest morsel, in a few hours you'll have ten tribbles then a hundred then a thousand. 
-Odo: Calm down. 
-Worf: They were once considered mortal enemies of the Klingon Empire. 
-Odo: This? A mortal enemy of the Empire? 
-Worf: They were an ecological menace, a plague to be wiped out. 
-Odo: Wiped out? What are you saying? 
-Worf: Hundreds of warriors were sent to track them down throughout the galaxy. An armada obliterated the Tribbles' homeworld. By the end of the twenty third century they had been eradicated. 
-Odo: Another glorious chapter of Klingon history. Tell me, do they still sing songs of the great tribble hunt? 
-
+{% dialogue %}
+WORF: I have completed my search of the primary habitat levels and... What is that sound? 
+ODO: Soothing isn't it? The bartender called it a... 
+WORF: A tribble. 
+ODO: Sit down. You're drawing attention. 
+WORF: Where did you get that thing? 
+ODO: From a man named Cyrano Jones. He told me tribbles like everyone, but this one doesn't seem to like you. 
+WORF: The feeling's! The feeling's mutual. They are detestable creatures. 
+ODO: Interesting. It's been my observation that most humanoids love soft, furry animals especially if they make pleasing sounds. 
+WORF: They do nothing but consume food and breed. If you feed that thing more than the smallest morsel, in a few hours you'll have ten tribbles then a hundred then a thousand. 
+ODO: Calm down. 
+WORF: They were once considered mortal enemies of the Klingon Empire. 
+ODO: This? A mortal enemy of the Empire? 
+WORF: They were an ecological menace, a plague to be wiped out. 
+ODO: Wiped out? What are you saying? 
+WORF: Hundreds of warriors were sent to track them down throughout the galaxy. An armada obliterated the Tribbles' homeworld. By the end of the twenty third century they had been eradicated. 
+ODO: Another glorious chapter of Klingon history. Tell me, do they still sing songs of the great tribble hunt? 
+{% enddialogue %}
 טוב כמעט באותה מידה הוא הרגע שבו וורף יושב בפאב והקלינגונים המקוריים באיזו פינה, והמלצרית מדווחת לאודו, באשיר ואו'ברייאן הנדהמים שאלו קלינגונים, מה שגורם לכולם לבהות בוורף בצורה מוזרה ולצפות להסבר. כי, אתם יודעים, הקלינגונים המקוריים נראים כמו בני אדם רגילים בלי כל השטות הזו על המצח. וורף מתחמק ואומר ש"זה סיפור ארוך", או'ברייאן מעלה השערה שזו הנדסה גנטית ובאשיר מעלה השערה שזו מוטציה ויראלית, ואילו וורף שוב מתחמק ואומר שלא מדסקסים את זה עם זרים. זו ההתייחסות הראשונה של מסע בין כוכבים להבדל הזה (כמובן, בעתיד הסדרה אנטרפרייז תיכנס לזה יותר לעומק) וזה נעשה מצויין. לא הכי הגיוני שבאשיר, למשל, לא מודע להבדלים, אבל התפקיד של באשיר ואו'ברייאן כאן הוא בדיוק לייצג את הקהל הנדהם ולהעלות את ההשערות שלו, וזה נעשה מעולה.
 
 בסופו של דבר הגישה של אודו של "בואו נשב בפאב ונחכה" עובדת והם תופסים את המרגל, אבל הוא כבר מודיע להם בגאווה שהוא הטמין פצצה בתוך טריבל והולך לפצפץ את קירק לחתיכות. למה שיגלה להם דבר כזה? למי אכפת? בשלב הזה הצוות עובר לסריקת טריבלים. גם זה רק תירוץ כדי להכניס את סיסקו ודקס לגשר הפיקוד של האנטרפרייז בזמן שהוא כבר עמוס טריבלים, ואחר כך להכניס אותם לתאי האכסון של הדגנים שכבר מלאים טריבלים (אני לא חושב שיש מישהו שראה את פרק הטריבלים ולא רצה להיכנס אליהם). בטאץ' יפה במיוחד, סיסקו ודקס מעיפים אחורה טריבלים שהם סרקו וגילו שהם נטולי פצצה; הטריבלים נופלים מתא האכסון ישר על הראש של קירק, כמו בסצינה המקורית. זו עוד דוגמא לאופן שבו הפרק הזה התעלק על הפרק המקורי בצורה מוצלחת (לא, אני לא מנסה לתאר את הכל). בסופו של דבר הם מוצאים את הטריבל הפצצתי ומשגרים אותו לחלל ברגע האחרון.

@@ -35,7 +35,9 @@ guide_comment: "פותח את הקשת העלילתית של, ובכן, הג'א�
 
 ובינתיים, אצל סיסקו ושות', סיסקו מנסה לגייס את קווארק כדי שיפרוץ את המנעול על הקולר. וקווארק הזועם שממשיכים לתת לו פקודות דופק מונולוג. חתיכת מונולוג. כמו המונולוג של סיסקו ב-The Maquis, יש לנו עוד הצבעה ברורה על החסרונות של בני האדם והפדרציה, ומכיוון שהתלוננתי כל הזמן על היחס לפרנגים, אני מרוצה:
 
-"The way I see it, Humans used to be a lot like Ferengi: greedy, acquisitive, interested only in profit. We're a constant reminder of a part of your past you'd like to forget... But you're overlooking something: Humans used to be a lot worse than the Ferengi. Slavery. Concentration camps. Interstellar wars. We have nothing in our past that approaches that kind of barbarism. You see? We're nothing like you. We're better. Now, if you'll excuse me, I have a lock to pick."
+{% dialogue %}
+QUARK: The way I see it, Humans used to be a lot like Ferengi: greedy, acquisitive, interested only in profit. We're a constant reminder of a part of your past you'd like to forget... But you're overlooking something: Humans used to be a lot worse than the Ferengi. Slavery. Concentration camps. Interstellar wars. We have nothing in our past that approaches that kind of barbarism. You see? We're nothing like you. We're better. Now, if you'll excuse me, I have a lock to pick.
+{% enddialogue %}
 
 ושוב, לסיסקו אין מענה.
 

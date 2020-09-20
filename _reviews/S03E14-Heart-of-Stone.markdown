@@ -51,21 +51,16 @@ guide_comment: "פרק מצוין שמכיל שני רגעים קריטיים ל
 
 מה שקורה עכשיו הוא אמנם קלישאה, אבל זה לא מונע ממנו להיות שעתו הגדולה של נוג בסדרה, הסצינה הטובה ביותר שמערבת פרנגים עד כה בסדרה, ובאופן כללי אחד הדברים הכי טובים עד כה בסדרה (ציטוט, אבל הביצוע היה עוד יותר טוב):
 
-"Why are you doing this?"
-
-"Because l don't want to end up like my father."
-
-"Your father."
-
-"That's right. My father. He's been chasing profit his whole life, and what has it gotten him? Nothing. And you know why? Because he doesn't have the lobes. And neither do l."
-
-"And ''A Ferengi without profit..."
-
-"...is no Ferengi at all."
-
-"The 18th Rule of Acquisition."
-
-"My father is a mechanical genius. He could have been chief engineer of a starship if he'd had the opportunity. But he went into business, like a good Ferengi. The only thing is, he's not a good Ferengi - not when it comes to acquiring profit. Now all he has to live for is the slim chance that someday, somehow, he might be able to take over my uncle's bar. l'm not going to make the same mistake. l want to do something with my life, something worthwhile."
+{% dialogue %}
+SISKO: Then what do you care about? Come on, Nog, tell me. Why is it so damned important for you to get into Starfleet? Why are you doing this?
+NOG: Because I don't want to end up like my father.
+SISKO: Your father.
+NOG: That's right. My father. He's been chasing profit his whole life, and what has it gotten him? Nothing. And you know why? Because he doesn't have the lobes. And neither do I.
+SISKO: And a Ferengi without profit...
+NOG: ...Is no Ferengi at all.
+SISKO: The eighteenth Rule of Acquisition.
+NOG: My father is a mechanical genius. He could've been Chief Engineer of a starship if he'd had the opportunity. But he went into business, like a good Ferengi. The only thing is, he's not a good Ferengi, not when it comes to acquiring profit. So now all he has to live for is the slim chance that someday, somehow, he might be able to take over my uncle's bar. Well, I'm not going to make the same mistake. I want to do something with my life. Something worthwhile.
+{% enddialogue %}
 
 סיסקו כמובן משתכנע. חשבתם שלא? יאיי נוג, בהצלחה! סוף סוף, אחרי שנים של ווסלי קראשר, יש מישהו שיהיה לנו ממש משמח לראות אותו מצליח באקדמיה!
 

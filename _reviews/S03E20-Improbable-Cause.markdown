@@ -23,10 +23,12 @@ guide_comment: "פרק מצוין שמקפיץ את העלילה קדימה"
 
 הו. אודו מתחקר את גארק. זה חייב להיות טוב. וזה אכן טוב, עם ציטוטים כמו
 
-Garak: There's the Nausicaan whose wedding suit I misplaced. And the Yridian I owe money to. And, of course, there's always Major Kira.
-Bashir: This is serious, Garak.
-Garak: I'm serious. I don't think she likes me.
-Odo: She doesn't. But if she wanted you dead, you would be.
+{% dialogue %}
+GARAK: There's the Nausicaan whose wedding suit I misplaced. And the Yridian I owe money to. And, of course, there's always Major Kira.
+BASHIR: This is serious, Garak.
+GARAK: I'm serious. I don't think she likes me.
+ODO: She doesn't. But if she wanted you dead, you would be.
+{% enddialogue %}
 
 זה מסתיים בשלל שקרי גארק סטנדרטיים, שגורמים לבאשיר לספר לגארק את הסיפור על הילד שצעק זאב זאב. מוסר ההשכל של באשיר: אם תשקר כל הזמן לא יאמינו לך. מוסר ההשכל של גארק: אף פעם אל תחזור על אותו שקר פעמים. הא! ככה עושים פרק גארק!
 
@@ -41,7 +43,10 @@ Odo: She doesn't. But if she wanted you dead, you would be.
 בהתחלה חשבתי לומר שזה ממש מופרך שכל ההתנקשויות הללו יוצאות לפועל בו זמנית, אבל למעשה זה הדבר ההגיוני יותר - אם ההתנקשויות היו מבוצעות בהדרגה, סביר להניח שהן היו מגיעות לאוזני היעדים והם היו מתכוננים טוב יותר. ההגיון הפנימי של הפרק הזה מאוד מוצלח ולא מצאתי בו פגמים של ממש.
 
 אודו חוזר לתחנה, והוא מעוצבן. הוא רוצה תשובות. גארק מופתע לגלות על שאר ההתנקשויות, אבל ממשיך לשחק אותה תמים וחצי-מכחיש שכולם היו ביחד במסדר האובסידיין. כאן פוקע לאודו הפיוז והוא צועק על גארק שהוא גרר אותו לעניין הזה אז שישתף פעולה. גארק מעמיד פנים שהוא תוהה על מה הוא מדבר ואז אודו צועק עליו שהוא יודע שגארק פוצץ לעצמו את החנות. לשם שינוי גארק שותק, ואודו המרוצה מעצמו אומר
-Well... I don't think I've ever seen that particular expression on your face. Is it surprise?
+
+{% dialogue %}
+ODO: Well... I don't think I've ever seen that particular expression on your face. Is it surprise?
+{% enddialogue %}
 
 ואכן, זה הגיוני, כשחושבים על זה. המתנקש היה מומחה לרעלים. מה פתאום הוא מפוצץ דברים? ולמה בצורה כל כך חובבנית עד שאו'ברייאן עולה על זה בקלות? גארק הבחין במתנקש, הקדים תרופה למכה ופוצץ לעצמו את החנות כדי לערב את אודו בעניין. רגע, למה לא פשוט לפנות אל אודו? ובכן, כי אף אחד לא מאמין לגארק, אז הנער שצעק זאב זאב שיקר שקר אחר. יפה! (לא הכי הגיוני - אני די בטוח שאודו היה עוזר לגארק בכל מקרה - אבל יפה!)
 

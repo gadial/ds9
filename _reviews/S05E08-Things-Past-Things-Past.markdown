@@ -28,15 +28,15 @@ guide_comment: "אין לפרק הזה השפעה בהמשך אבל הוא רל�
 בינתיים יש לנו עוד סצינה כיפית, של דקס שיושבת אצל החבר החדש שלה דוקאט, זוללת בתיאבון ומקשיבה בעניין לקשקושים שלו על איך הבאג'ורים הם ילדיו וכואב לו כשהם פונים כנגדו. ואז הוא מסתובב וחוטף בראש, ודקס מארגנת מבצע חילוץ של היתר. גו גו גו דקס! אנחנו מקבלים סצינת אקשן סבירה שבה גארק שוב לא מהסס לירות באויב מזדמן, גם אם אודו צמוד אליו (גארק פוגע) וסיסקו מכסח את ת'רקס רק כדי שהלה יחשוף שהוא משנה צורה ויסתלק. ואז כולם בורחים אל המעבורת האישית של דוקאט ו... בלי שום הסבר מוצאים את עצמם חזרה בכלא. לא הוגן!
 
 בשלב הזה ברור שכל מה שקורה פה הוא תסריט שאודו מריץ בראש, ולא ייתן להתרחשויות להפריע לו. אבל זו בכל מקרה לא הפואנטה. אנחנו לא חוששים שהדמויות לא ישרדו את המשך הפרק, אלא חוששים מה אנחנו הולכים לגלות על אודו. ובשביל זה יש לנו שיחת אודו - ת'רקס נוספת. כואב במיוחד הוא השלב שבו אודו מפציר בת'רקס לגלות את האמת, ומקבל את זה:
-
-Thrax: Truth? You want the truth? All right. The truth is that none of you would be accused, none of you would even be here if the Bajorans weren't fighting the Cardassians. It's futile. The occupation has lasted for fifty years and it will probably last another fifty. 
-Odo: I wouldn't be too sure about that. 
-Thrax: Why not accept it? If the Bajoran people would accept their place in history, none of this would be happening. 
-Odo: We're talking about the attempt on Gul Dukat's life, not the socio-political ramifications of the resistance. 
-Thrax: It's all part of the same problem. When your people resort to terrorism and violence, they're fighting against order, against stability, against the rule of law, and this must be stopped. 
-Odo: There is more to life than the rule of law. 
-Thrax: It has been my observation that only the guilty make that kind of statement. 
-
+{% dialogue %}
+THRAX: Truth? You want the truth? All right. The truth is that none of you would be accused, none of you would even be here if the Bajorans weren't fighting the Cardassians. It's futile. The occupation has lasted for fifty years and it will probably last another fifty. 
+ODO: I wouldn't be too sure about that. 
+THRAX: Why not accept it? If the Bajoran people would accept their place in history, none of this would be happening. 
+ODO: We're talking about the attempt on Gul Dukat's life, not the socio-political ramifications of the resistance. 
+THRAX: It's all part of the same problem. When your people resort to terrorism and violence, they're fighting against order, against stability, against the rule of law, and this must be stopped. 
+ODO: There is more to life than the rule of law. 
+THRAX: It has been my observation that only the guilty make that kind of statement. 
+{% enddialogue %}
 אני לא ממש מופתע שאודו הישן התנהל ככה לפעמים - למעשה, מתחילת הסדרה כך הנחתי שהוא התנהל. זה עדיין לא נעים לראות את זה, כמובן.
 
 איך זה נגמר? התסריט נמשך. ההוצאה להורג לכאורה מתחילה, אודו מנסה לעצור אותה וצועק על ת'רקס שהוא בכלל לא קשור להוצאה להורג הזו אלא הוא עצמו, ואז הסיטואציה שוב משתנה והוא והיתר רואים את ההוצאה להורג של הבאג'ורים האמיתיים מהצד, עם אודו-של-אז צופה בה מהצד, ואודו מתוודה בפני היתר על הפאשלה שעשה, ולא מנסה להוריד מעצמו אשמה. בשלב הזה כולם מתעוררים, כמובן. קצת אחר כך באשיר מבשר לאודו שכל העסק היה סוג של The Great Link של משני הצורה שאיכשהו התלבש על שאר האנשים שאיתו במעבורת; כמובן שיש פה רמיזה לכך שאודו לא לגמרי הפסיק להיות משנה צורה.

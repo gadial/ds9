@@ -40,7 +40,7 @@ guide_comment: "פרק חביב אבל זניח"
 כמו כן, דקס לא מחזירה לקווארק את גלגל הטונגו שלו. כי היא דושבגית.
 
 למרבה המזל, הפרק ניצל על ידי העלילה של או'ברייאן. אחרי שאו'ברייאן מגלה שהמקום היחיד שבו התינוק הוא על הגשר הוא מביא אותו לישון שם וסיסקו מגרש אותו, אבל בסצינת הסיום של העלילה הזו, וורף בא לבקר, לוקח על הידיים את התינוק שעד כה בכה אצל כל מי שאינו או'ברייאן, והופס! נרדם מייד וישן במיטה כמו... אה... תינוק. ואז וורף שובר לנו את הלב עם
-
-"I never saw my son when he was this age. It is something I will always regret. You are a fortunate man. Chief. Chief? "
-
+{% dialogue %}
+WORF: I never saw my son when he was this age. It is something I will always regret. You are a fortunate man. Chief. Chief?
+{% enddialogue %}
 יאפ, או'ברייאן נרדם.

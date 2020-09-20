@@ -20,15 +20,15 @@ guide_comment: "מציג דמות חשובה חדשה והתפתחויות על�
 אבל בפרק הזה המטרה של פונטיין היא להיות מדריך לזוגיות, ולכן כשהוא מדבר עם הצוות הוא מזהה בדיוק מה הקטע של כל אחד - או'ברייאן מתגעגע לאשתו, וורף ודקס נשואים, ואילו אודו וקירה... לא, עזבו, אני לא אגיד את זה. כלומר, זה מה שויק פונטיין אומר.
 
 מי שאחראי לזוועת הסיקסטיז הזו הוא - איך לא - באשיר, והוא מתרברב בפני או'ברייאן (שכמובן לא מתלהב מהעסק) על איך שפונטיין כבר עזר לו להתחיל לצאת עם מישהי. אודו? אודו שומע מהצד. ואחר כך הולך ומבקש עצות... מקווארק, שבא אליו לגבי איזה משלוח גנוב שלו. קווארק נותן לו עצה מצויינת - לשכוח מכל סיפור קירה. הוא גם מוסיף ש-
-
-You're not exactly the most lovable person in the galaxy. You're not even the most lovable person in this sector, or on the station. Or even in this room. You're cold, rigid, remote. Can I leave now? 
-
+{% dialogue %}
+QUARK: You're not exactly the most lovable person in the galaxy. You're not even the most lovable person in this sector, or on the station. Or even in this room. You're cold, rigid, remote. Can I leave now? 
+{% enddialogue %}
 לא יודע מה איתכם, אני בעד קווארק.
 
 אבל אודו הולך אל פונטיין, ואנחנו שוקעים בעולם של רגעי מבוכה תמידיים כשפונטיין מדבר איתו בסלנג שהוא לא מבין, מלביש אותו בטוקסידו (אלוהים אדירים! אודו בטוקסידו!) ומגייס אותו להעמיד פנים שהוא מנגן על פסנתר, ומכיר לו נערות ליווי הולוגרמיות, ובשלב הקריפי ביותר של הערב מכיר לו זמרת מפורסמת שנראית במקרה בול כמו קירה. בשלב הזה כבר הזדעקתי שמה הולך פה?! הרי ב-Meridian החלק הממש נוראי של הפרק התרכז במאמץ של קווארק להשיג צילומים של קירה שיאפשרו לייצר דמות הולוגרפית שלה וזה נכשל כשלון חרוץ; מאיפה זה הגיע עכשיו? ובכן, מי שכתב את הפרק אשכרה חשב על זה והתייחס לזה!
-
+{% dialogue %}
 VIC: Do you know how difficult it was for me to get a holographic image of Major Kira? Lucky for you, Julian used her image in one of his spy programmes, though it did take me an hour to get rid of the Russian accent. 
-
+{% enddialogue %}
 גם התייחסות לנטפוק שלי, וגם רפרנס ל-Our Man Bashir? התרשמתי.
 
 בין כל הרגעים הדי מביכים הללו מסתתר לו רגע אחד מקסים ונפלא שהוא הדבר הכי טוב בפרק ואולי אחד מהטובים בעונה, כשאודו בא לסיסקו עם דו"ח שגרתי כלשהו, סיסקו מתחיל לקרוא, ואודו כהרגלו מתחיל לבהות בחלל... ואז מתחיל לזמזם לו שיר, וסיסקו מצטרף. רק בשביל הרגע הזה הפרק היה שווה את זה.
@@ -36,7 +36,7 @@ VIC: Do you know how difficult it was for me to get a holographic image of Major
 ואז פונטיין עובר לשלב התכסיסי סרטי אייטיז ומארגן לאודו דייט נוסף עם הולוגרמה של קירה, רק שהוא משכנע את קירה האמיתית לבוא לדייט הזה. אז כן, אודו מדבר יותר בחופשיות עם קירה כשהוא חושב שהיא הולוגרמה, אבל הוא גם מתייחס אליה ככזו, וכשהוא קצת מגזים עם זה היא עולה על הסיפור ושניהם ממש זועמים על פונטיין וכאן הפרק אמור להיגמר!
 
 זה אמור להיגמר ככה, אבל במקום זה יש עוד סצינה בטיילת שהולכת, ובכן, ככה:
-
+{% dialogue %}
 ODO: Major, if you don't mind, I'd like to forget all about the last night. 
 KIRA: No, I don't think that's a good idea. We need to talk about what happened. 
 ODO: Very well. We can meet in my office in an hour. 
@@ -51,7 +51,7 @@ ODO: And after that I suppose you'll expect me to kiss you.
 KIRA: Well, it's possible. 
 ODO: Then who needs dinner? Why don't I get it over with and kiss you right now? 
 KIRA: Well why don't you? 
-
+{% enddialogue %}
 זה.. מצטער, זה לא מוצלח. אני פשוט לא אוהב את זה.
 
 יש יותר מדי משקעים בין אודו וקירה מכדי שזה ילך ככה, והפרק הזה מתעלם מכולם. הוא מתעלם מ-Necessary Evil. הוא מתעלם מ-Children of Time. הוא מתעלם מכל תחילת העונה הזו. אני לא אומר שאי אפשר להפוך את קירה ואודו לזוג, אבל הצורה הזו לא עובדת, מבחינתי. לא יותר מאשר קצת צעקות של סיסקו יהפכו את דוקאט לנאצי מוצהר. לפחות פונטיין מקבל הפי אנד כשאודו בא לבקר אותו ולהודות לו.

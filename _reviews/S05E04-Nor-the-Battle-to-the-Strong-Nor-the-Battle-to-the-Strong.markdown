@@ -19,8 +19,10 @@ guide_comment: "למרות שאין לו חשיבות בהמשך, לא לפספ�
 
 זה פרק של ג'ייק, אבל באשיר זורח כאן בתפקיד המבוגר האחראי. כשכל הרופאים סרוחים אל הקיר אחרי שהאקשן נגמר אני אפילו ממש מסמפט אותו. הוא אפילו הופך להיות סוג של מנטור לג'ייק שעדיין תוהה איך זה ייתכן שחיילים שעברו אימונים עתירי סימולציות עדיין נשברים בכזו קלות בקרב אמיתי. ככזה, באשיר אחראי לשורה החביבה עלי בפרק, שתוקעת את הסיכה הנדרשת בתפיסה הרומנטית של ג'ייק:
 
-Jake: Some people say that you don't know what you're really made of until you've been in battle.
-Bashir: Well, let me tell you, Jake. There are many situations in life which test a person's character. Thankfully, most of them don't involve death and destruction.
+{% dialogue %}
+JAKE: Some people say that you don't know what you're really made of until you've been in battle.
+BASHIR: Well, let me tell you, Jake. There are many situations in life which test a person's character. Thankfully, most of them don't involve death and destruction.
+{% enddialogue %}
 
 המשפט הזה הוא בעצם המהות של הפרק. זה טוב לראות שככל ש-DS9 מתקדמת יותר ויותר אל עבר המלחמה הבלתי נמנעת, היחס שלה למלחמה הופך להיות מפוכח (ככל שייתכן בסדרת טלוויזיה סטרילית, כמובן) ויותר עוין. אפשר בעצם היה לסגור את הפרק כבר בשלב הזה, אבל יש לנו עוד חצי שעה, אז למה שלא נפיל עוד צרות על ג'ייק המסכן.
 
