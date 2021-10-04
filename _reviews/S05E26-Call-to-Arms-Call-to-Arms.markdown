@@ -39,7 +39,7 @@ DAX: Not really. It just seemed like the right thing to say.
 
 אז נשאר רק להתכונן לכיבוש. זה מתחיל עם פינוי כל הבאג'ורים מהתחנה, ואנחנו מקבלים סצינת פרידה גארק-זיאל. כשזיאל תוהה איך גארק יסתדר, הוא עונה עם סיכום של גארק על פי גארק: "Well, 
 {% dialogue %}
-GARAK: let me tell you a story. I once knew a Cardassian, a dashing, handsome young man with a promising career. But one day, through no fault of his own, he found himself exiled and alone, with nowhere to turn. But did he give up? No. He struck upon a brilliant plan. Rather than fleeing for the rest of his life, he sought shelter in the one place no one expected him to go. In a stronghold of his people's most hated enemies. There, surrounded by hostile strangers, he built a life, and there, against all odds, against the merciless logic of the Universe itself, he thrived.
+GARAK: Let me tell you a story. I once knew a Cardassian, a dashing, handsome young man with a promising career. But one day, through no fault of his own, he found himself exiled and alone, with nowhere to turn. But did he give up? No. He struck upon a brilliant plan. Rather than fleeing for the rest of his life, he sought shelter in the one place no one expected him to go. In a stronghold of his people's most hated enemies. There, surrounded by hostile strangers, he built a life, and there, against all odds, against the merciless logic of the Universe itself, he thrived.
 {% enddialogue %}
 קצת מזכיר את סצינת ה-Root Beer מ-The Way of the Warrior.
 
